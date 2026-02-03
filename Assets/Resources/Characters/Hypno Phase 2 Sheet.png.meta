@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: a73d21f1a7f2849489dfaa007b75d014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6006449140398247993
+    second: Hypno Phase 2 Sheet_0
+  - first:
+      213: 1697831234745282315
+    second: Hypno Phase 2 Sheet_1
+  - first:
+      213: -8640616187308304802
+    second: Hypno Phase 2 Sheet_2
+  - first:
+      213: -7287995362888693310
+    second: Hypno Phase 2 Sheet_3
+  - first:
+      213: 3120209013577438926
+    second: Hypno Phase 2 Sheet_4
+  - first:
+      213: 8926551052222710884
+    second: Hypno Phase 2 Sheet_5
+  - first:
+      213: -4630917578178524806
+    second: Hypno Phase 2 Sheet_6
+  - first:
+      213: -4616010275285790625
+    second: Hypno Phase 2 Sheet_7
+  - first:
+      213: -8462002181662953483
+    second: Hypno Phase 2 Sheet_8
+  - first:
+      213: 5583648732562459958
+    second: Hypno Phase 2 Sheet_9
+  - first:
+      213: -1829432740548448189
+    second: Hypno Phase 2 Sheet_10
+  - first:
+      213: -8755650881771538463
+    second: Hypno Phase 2 Sheet_11
+  - first:
+      213: -9202941344776313369
+    second: Hypno Phase 2 Sheet_12
+  - first:
+      213: 4276573431622154209
+    second: Hypno Phase 2 Sheet_13
+  - first:
+      213: 4313097979698827755
+    second: Hypno Phase 2 Sheet_14
+  - first:
+      213: -5737585184662112490
+    second: Hypno Phase 2 Sheet_15
+  - first:
+      213: 9021070070490811021
+    second: Hypno Phase 2 Sheet_16
+  - first:
+      213: -7702553189262898122
+    second: Hypno Phase 2 Sheet_17
+  - first:
+      213: -2347151020843070299
+    second: Hypno Phase 2 Sheet_18
+  - first:
+      213: -2749583454418476646
+    second: Hypno Phase 2 Sheet_19
+  - first:
+      213: -4722405852436926052
+    second: Hypno Phase 2 Sheet_20
+  - first:
+      213: -4083060794906931077
+    second: Hypno Phase 2 Sheet_21
+  - first:
+      213: -1417991492820019057
+    second: Hypno Phase 2 Sheet_22
+  - first:
+      213: -3425714192167875923
+    second: Hypno Phase 2 Sheet_23
+  - first:
+      213: -87633751571509435
+    second: Hypno Phase 2 Sheet_24
+  - first:
+      213: -1686704489662108320
+    second: Hypno Phase 2 Sheet_25
+  - first:
+      213: -4233440317779135417
+    second: Hypno Phase 2 Sheet_26
+  - first:
+      213: -3334463423496345621
+    second: Hypno Phase 2 Sheet_27
+  - first:
+      213: 6124035356625714642
+    second: Hypno Phase 2 Sheet_28
+  - first:
+      213: -5029664065055460262
+    second: Hypno Phase 2 Sheet_29
+  - first:
+      213: -4275001306784076536
+    second: Hypno Phase 2 Sheet_30
+  - first:
+      213: -4304305595372766519
+    second: Hypno Phase 2 Sheet_31
+  - first:
+      213: -5456288521328768017
+    second: Hypno Phase 2 Sheet_32
+  - first:
+      213: -3228123982239885955
+    second: Hypno Phase 2 Sheet_33
+  - first:
+      213: -4554987282461260370
+    second: Hypno Phase 2 Sheet_34
+  - first:
+      213: -1184435371909786321
+    second: Hypno Phase 2 Sheet_35
+  - first:
+      213: 3315120967963706297
+    second: Hypno Phase 2 Sheet_36
+  - first:
+      213: -1154253830040420962
+    second: Hypno Phase 2 Sheet_37
+  - first:
+      213: -4400192018911394328
+    second: Hypno Phase 2 Sheet_38
+  - first:
+      213: -6935136668214905879
+    second: Hypno Phase 2 Sheet_39
+  - first:
+      213: 6908553174140642588
+    second: Hypno Phase 2 Sheet_40
+  - first:
+      213: -4548506107272674602
+    second: Hypno Phase 2 Sheet_41
+  - first:
+      213: 6016888854817269126
+    second: Hypno Phase 2 Sheet_42
+  - first:
+      213: -1199006443198326638
+    second: Hypno Phase 2 Sheet_43
+  - first:
+      213: 8078866944837160152
+    second: Hypno Phase 2 Sheet_44
+  - first:
+      213: 8570612764300131845
+    second: Hypno Phase 2 Sheet_45
+  - first:
+      213: -2885633277661523803
+    second: Hypno Phase 2 Sheet_46
+  - first:
+      213: -1951249678164923569
+    second: Hypno Phase 2 Sheet_47
+  - first:
+      213: -7363483857759376451
+    second: Hypno Phase 2 Sheet_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4098
+        width: 781
+        height: 563
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93053ee6ba13b5350800000000000000
+      internalID: 6006449140398247993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 4184
+        width: 808
+        height: 478
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f2e833388ef8710800000000000000
+      internalID: 1697831234745282315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 4171
+        width: 794
+        height: 491
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e569ffa8b5d561880800000000000000
+      internalID: -8640616187308304802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 4178
+        width: 803
+        height: 484
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c94356b4d6dbda90800000000000000
+      internalID: -7287995362888693310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 4160
+        width: 788
+        height: 501
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec65147f0953d4b20800000000000000
+      internalID: 3120209013577438926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 4176
+        width: 806
+        height: 485
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464cf1913ea71eb70800000000000000
+      internalID: 8926551052222710884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 4176
+        width: 806
+        height: 485
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a798e809ffcabbfb0800000000000000
+      internalID: -4630917578178524806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 4176
+        width: 806
+        height: 485
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50990e7c13a0ffb0800000000000000
+      internalID: -4616010275285790625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 3953
+        width: 783
+        height: 708
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff266179dde09a80800000000000000
+      internalID: -8462002181662953483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 7366
+        y: 3948
+        width: 757
+        height: 714
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d02f650fa1d7d40800000000000000
+      internalID: 5583648732562459958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3243
+        width: 675
+        height: 684
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340f32f7d9c8c96e0800000000000000
+      internalID: -1829432740548448189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3224
+        width: 700
+        height: 703
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7fba699edad7680800000000000000
+      internalID: -8755650881771538463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 3265
+        width: 699
+        height: 661
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e52adf2b95984080800000000000000
+      internalID: -9202941344776313369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 3234
+        width: 723
+        height: 693
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e736b7b0e0795b30800000000000000
+      internalID: 4276573431622154209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 3234
+        width: 731
+        height: 693
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be15761c2c33bdb30800000000000000
+      internalID: 4313097979698827755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 3236
+        width: 726
+        height: 691
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617bbaf6ca00060b0800000000000000
+      internalID: -5737585184662112490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4387
+        y: 3236
+        width: 726
+        height: 691
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a4385fe67413d70800000000000000
+      internalID: 9021070070490811021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 3324
+        width: 1248
+        height: 603
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cce6a2fa80b1590800000000000000
+      internalID: -7702553189262898122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3264
+        width: 1204
+        height: 663
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac0470159e3d6fd0800000000000000
+      internalID: -2347151020843070299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2563
+        width: 1139
+        height: 640
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9168178a6487d9d0800000000000000
+      internalID: -2749583454418476646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2573
+        width: 1099
+        height: 630
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c917548c5e4a67eb0800000000000000
+      internalID: -4722405852436926052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2523
+        width: 1099
+        height: 679
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b709f3b07dd0657c0800000000000000
+      internalID: -4083060794906931077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 2536
+        width: 1085
+        height: 667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88dfe70048425ce0800000000000000
+      internalID: -1417991492820019057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 2536
+        width: 1085
+        height: 667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac1d9a71b6570d0800000000000000
+      internalID: -3425714192167875923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 2551
+        width: 1082
+        height: 652
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fce373199a8cef0800000000000000
+      internalID: -87633751571509435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 2551
+        width: 1081
+        height: 652
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d22a4043f9798e0800000000000000
+      internalID: -1686704489662108320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1608
+        width: 913
+        height: 896
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74435f0f57ccf35c0800000000000000
+      internalID: -4233440317779135417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1630
+        width: 851
+        height: 874
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7a7fdde2b99b1d0800000000000000
+      internalID: -3334463423496345621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1663
+        width: 846
+        height: 841
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddbb97d5b1fcf450800000000000000
+      internalID: 6124035356625714642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1673
+        width: 815
+        height: 830
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5472de5e2b033ab0800000000000000
+      internalID: -5029664065055460262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1685
+        width: 807
+        height: 819
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dedce16f42ca4c0800000000000000
+      internalID: -4275001306784076536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 1691
+        width: 803
+        height: 813
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca741fbdd80444c0800000000000000
+      internalID: -4304305595372766519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 1692
+        width: 804
+        height: 812
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb482e9f7e5744b0800000000000000
+      internalID: -5456288521328768017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 5993
+        y: 1697
+        width: 802
+        height: 807
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751cab67566333d0800000000000000
+      internalID: -3228123982239885955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 6815
+        y: 1697
+        width: 802
+        height: 807
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58970333f69c0c0800000000000000
+      internalID: -4554987282461260370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 995
+        width: 866
+        height: 592
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d8edfd4a009fe0800000000000000
+      internalID: -1184435371909786321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 967
+        width: 917
+        height: 620
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b30de2c4fca10e20800000000000000
+      internalID: 3315120967963706297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 932
+        width: 848
+        height: 654
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d7ecfc1444bffe0800000000000000
+      internalID: -1154253830040420962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 945
+        width: 882
+        height: 642
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e507490ca06fe2c0800000000000000
+      internalID: -4400192018911394328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 872
+        width: 774
+        height: 715
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b346b1f171cf90800000000000000
+      internalID: -6935136668214905879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 4401
+        y: 885
+        width: 880
+        height: 702
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ec80428c10ef50800000000000000
+      internalID: 6908553174140642588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 5300
+        y: 837
+        width: 894
+        height: 751
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d241516bc570e0c0800000000000000
+      internalID: -4548506107272674602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 6213
+        y: 853
+        width: 853
+        height: 735
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e36cd888408350800000000000000
+      internalID: 6016888854817269126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 7085
+        y: 848
+        width: 873
+        height: 740
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29852c51ef54c5fe0800000000000000
+      internalID: -1199006443198326638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 25
+        width: 1053
+        height: 792
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc0aa2cea6ed1070800000000000000
+      internalID: 8078866944837160152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 123
+        width: 861
+        height: 693
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eb98b66eee0f670800000000000000
+      internalID: 8570612764300131845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 77
+        width: 991
+        height: 739
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a050fc92db24f7d0800000000000000
+      internalID: -2885633277661523803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 161
+        width: 836
+        height: 655
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b62e081c4cbe4e0800000000000000
+      internalID: -1951249678164923569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno Phase 2 Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 133
+        width: 901
+        height: 683
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbedecd176afc990800000000000000
+      internalID: -7363483857759376451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

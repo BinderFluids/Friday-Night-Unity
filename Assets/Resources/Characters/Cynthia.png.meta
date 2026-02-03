@@ -1,0 +1,1884 @@
+fileFormatVersion: 2
+guid: cd538ef8d6f35aa4f89ad6782081e833
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -407177488375296025
+    second: Cynthia_0
+  - first:
+      213: 4211849744412058872
+    second: Cynthia_1
+  - first:
+      213: 6572420991243563549
+    second: Cynthia_2
+  - first:
+      213: -5942461996460290188
+    second: Cynthia_3
+  - first:
+      213: 2887563056206212341
+    second: Cynthia_4
+  - first:
+      213: -7432158658344475908
+    second: Cynthia_5
+  - first:
+      213: -8523158977032557218
+    second: Cynthia_6
+  - first:
+      213: 3524932476586696806
+    second: Cynthia_7
+  - first:
+      213: 5678695773956206178
+    second: Cynthia_8
+  - first:
+      213: 1221667754266182714
+    second: Cynthia_9
+  - first:
+      213: -65214124979839009
+    second: Cynthia_10
+  - first:
+      213: 7743611239030428174
+    second: Cynthia_11
+  - first:
+      213: -941335485068645700
+    second: Cynthia_12
+  - first:
+      213: 1276507276351311175
+    second: Cynthia_13
+  - first:
+      213: -6782133583832876897
+    second: Cynthia_14
+  - first:
+      213: -2672253344377595448
+    second: Cynthia_15
+  - first:
+      213: -3564619443909543949
+    second: Cynthia_16
+  - first:
+      213: 6716711585767138045
+    second: Cynthia_17
+  - first:
+      213: 6413610092175196221
+    second: Cynthia_18
+  - first:
+      213: -7854229495931011243
+    second: Cynthia_19
+  - first:
+      213: 8548513547196398582
+    second: Cynthia_20
+  - first:
+      213: 8826979358567301250
+    second: Cynthia_21
+  - first:
+      213: -1082264122939339283
+    second: Cynthia_22
+  - first:
+      213: -2254662288891944390
+    second: Cynthia_23
+  - first:
+      213: 650185561034457068
+    second: Cynthia_24
+  - first:
+      213: 1061085162385198810
+    second: Cynthia_25
+  - first:
+      213: -8012768880001683268
+    second: Cynthia_26
+  - first:
+      213: 4849050641109044736
+    second: Cynthia_27
+  - first:
+      213: -5922519602049250582
+    second: Cynthia_28
+  - first:
+      213: 5045507996780918833
+    second: Cynthia_29
+  - first:
+      213: -5409981996699752409
+    second: Cynthia_30
+  - first:
+      213: 965040063539176155
+    second: Cynthia_31
+  - first:
+      213: -4057687232554182618
+    second: Cynthia_32
+  - first:
+      213: -5266168356068414436
+    second: Cynthia_33
+  - first:
+      213: -4415377297155477479
+    second: Cynthia_34
+  - first:
+      213: -9154375779270890327
+    second: Cynthia_35
+  - first:
+      213: -1153408430586676444
+    second: Cynthia_36
+  - first:
+      213: -5904486712533927712
+    second: Cynthia_37
+  - first:
+      213: 5793494769862656210
+    second: Cynthia_38
+  - first:
+      213: 2842988336264498362
+    second: Cynthia_39
+  - first:
+      213: 8766846644350742133
+    second: Cynthia_40
+  - first:
+      213: 4770279920396003577
+    second: Cynthia_41
+  - first:
+      213: 8754072382697577064
+    second: Cynthia_42
+  - first:
+      213: -2317976900987917107
+    second: Cynthia_43
+  - first:
+      213: -2100582102347455368
+    second: Cynthia_44
+  - first:
+      213: 4758623762144193946
+    second: Cynthia_45
+  - first:
+      213: 6735072895782288820
+    second: Cynthia_46
+  - first:
+      213: -1790186843882633605
+    second: Cynthia_47
+  - first:
+      213: 188180602390054117
+    second: Cynthia_48
+  - first:
+      213: -9118170452627102662
+    second: Cynthia_49
+  - first:
+      213: -4426539660951029311
+    second: Cynthia_50
+  - first:
+      213: 5981078891340473891
+    second: Cynthia_51
+  - first:
+      213: 8374676632791042225
+    second: Cynthia_52
+  - first:
+      213: 4200103158277114572
+    second: Cynthia_53
+  - first:
+      213: -3383535904970545992
+    second: Cynthia_54
+  - first:
+      213: 5191527328985815248
+    second: Cynthia_55
+  - first:
+      213: -2108436977779275774
+    second: Cynthia_56
+  - first:
+      213: -409584886635943641
+    second: Cynthia_57
+  - first:
+      213: 2225645581364788350
+    second: Cynthia_58
+  - first:
+      213: 9080281073141473089
+    second: Cynthia_59
+  - first:
+      213: 14850656233226934
+    second: Cynthia_60
+  - first:
+      213: -3976805481219337870
+    second: Cynthia_61
+  - first:
+      213: 4822535373771115634
+    second: Cynthia_62
+  - first:
+      213: -4958016261519044096
+    second: Cynthia_63
+  - first:
+      213: -5632080426489455793
+    second: Cynthia_64
+  - first:
+      213: -5074549057927992643
+    second: Cynthia_65
+  - first:
+      213: 4832441245681423766
+    second: Cynthia_66
+  - first:
+      213: 6571044448059551534
+    second: Cynthia_67
+  - first:
+      213: 4405229395171781422
+    second: Cynthia_68
+  - first:
+      213: 5227113066495022573
+    second: Cynthia_69
+  - first:
+      213: 2296901439998556770
+    second: Cynthia_70
+  - first:
+      213: -1355404099216838544
+    second: Cynthia_71
+  - first:
+      213: -7735125890298402296
+    second: Cynthia_72
+  - first:
+      213: 7204943874818725716
+    second: Cynthia_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cynthia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3674
+        width: 567
+        height: 595
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efcadc4b3a695af0800000000000000
+      internalID: -407177488375296025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3662
+        width: 543
+        height: 607
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f42007f60f737a30800000000000000
+      internalID: 4211849744412058872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_2
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 3662
+        width: 567
+        height: 607
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b461c11ee53b50800000000000000
+      internalID: 6572420991243563549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_3
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3658
+        width: 543
+        height: 611
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fc9b97c42288da0800000000000000
+      internalID: -5942461996460290188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_4
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 3659
+        width: 567
+        height: 610
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc66b7fc4fa21820800000000000000
+      internalID: 2887563056206212341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_5
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 3659
+        width: 543
+        height: 610
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2a807d31babd890800000000000000
+      internalID: -7432158658344475908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_6
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 3659
+        width: 567
+        height: 610
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5deac96118a7b980800000000000000
+      internalID: -8523158977032557218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_7
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 3663
+        width: 543
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660203c59631be030800000000000000
+      internalID: 3524932476586696806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_8
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 3663
+        width: 567
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eeb2a28b7cece40800000000000000
+      internalID: 5678695773956206178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_9
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 3663
+        width: 543
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c59e895c34f010800000000000000
+      internalID: 1221667754266182714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_10
+      rect:
+        serializedVersion: 2
+        x: 5555
+        y: 3663
+        width: 567
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf1d3e4910581ff0800000000000000
+      internalID: -65214124979839009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_11
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 3663
+        width: 543
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02912df465d67b60800000000000000
+      internalID: 7743611239030428174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_12
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 3663
+        width: 567
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba630e1d54bfe2f0800000000000000
+      internalID: -941335485068645700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_13
+      rect:
+        serializedVersion: 2
+        x: 7234
+        y: 3663
+        width: 543
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d0f18ca9017b110800000000000000
+      internalID: 1276507276351311175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3051
+        width: 567
+        height: 606
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98f464507501e1a0800000000000000
+      internalID: -6782133583832876897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2969
+        width: 678
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c91682ddbf3aead0800000000000000
+      internalID: -2672253344377595448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_16
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2969
+        width: 688
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7325e708de78ec0800000000000000
+      internalID: -3564619443909543949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_17
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2956
+        width: 686
+        height: 701
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2a660c99d863d50800000000000000
+      internalID: 6716711585767138045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_18
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2956
+        width: 695
+        height: 701
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3086f7e568b10950800000000000000
+      internalID: 6413610092175196221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_19
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 2952
+        width: 692
+        height: 705
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff2ae03eb200390800000000000000
+      internalID: -7854229495931011243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_20
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 2952
+        width: 701
+        height: 705
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb714a77cb62a670800000000000000
+      internalID: 8548513547196398582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_21
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 2950
+        width: 687
+        height: 706
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2800c1395fabf7a70800000000000000
+      internalID: 8826979358567301250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_22
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 2950
+        width: 696
+        height: 707
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0d07a3860bf0f0800000000000000
+      internalID: -1082264122939339283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_23
+      rect:
+        serializedVersion: 2
+        x: 6118
+        y: 2952
+        width: 686
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32602e0894d5b0e0800000000000000
+      internalID: -2254662288891944390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_24
+      rect:
+        serializedVersion: 2
+        x: 6804
+        y: 2952
+        width: 695
+        height: 705
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceffb8ba25ce50900800000000000000
+      internalID: 650185561034457068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_25
+      rect:
+        serializedVersion: 2
+        x: 7499
+        y: 2952
+        width: 688
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade4864555bb9be00800000000000000
+      internalID: 1061085162385198810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2245
+        width: 696
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0f138382decc090800000000000000
+      internalID: -8012768880001683268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_27
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2245
+        width: 688
+        height: 705
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e4f21edd94b4340800000000000000
+      internalID: 4849050641109044736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_28
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 2245
+        width: 697
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea01900dcbfecda0800000000000000
+      internalID: -5922519602049250582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_29
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 2245
+        width: 688
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f4837ace350640800000000000000
+      internalID: 5045507996780918833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_30
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 2245
+        width: 697
+        height: 705
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e37d8902ebe4b0800000000000000
+      internalID: -5409981996699752409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_31
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 2245
+        width: 688
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e54523d2846d00800000000000000
+      internalID: 965040063539176155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_32
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 2245
+        width: 697
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62858f5e5f230b7c0800000000000000
+      internalID: -4057687232554182618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_33
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 2245
+        width: 688
+        height: 705
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ca32118cfcae6b0800000000000000
+      internalID: -5266168356068414436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_34
+      rect:
+        serializedVersion: 2
+        x: 5531
+        y: 2245
+        width: 697
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91039bdedbd69b2c0800000000000000
+      internalID: -4415377297155477479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_35
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 2303
+        width: 629
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac6e101bbf15f080800000000000000
+      internalID: -9154375779270890327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_36
+      rect:
+        serializedVersion: 2
+        x: 6857
+        y: 2295
+        width: 647
+        height: 654
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bb0f5b4254effe0800000000000000
+      internalID: -1153408430586676444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_37
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 2295
+        width: 627
+        height: 654
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b6664e9c0f0ea0800000000000000
+      internalID: -5904486712533927712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1589
+        width: 644
+        height: 656
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d04fb54cc0a66050800000000000000
+      internalID: 5793494769862656210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_39
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1589
+        width: 624
+        height: 656
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abccf9b34d2547720800000000000000
+      internalID: 2842988336264498362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_40
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1589
+        width: 643
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee9d403981aa970800000000000000
+      internalID: 8766846644350742133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_41
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1589
+        width: 623
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e1664050733240800000000000000
+      internalID: 4770279920396003577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_42
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1589
+        width: 644
+        height: 656
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1fb47376bc7970800000000000000
+      internalID: 8754072382697577064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_43
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 1589
+        width: 624
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcced0b2a44e4dfd0800000000000000
+      internalID: -2317976900987917107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_44
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 1589
+        width: 644
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874690015bb39d2e0800000000000000
+      internalID: -2100582102347455368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_45
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 1589
+        width: 624
+        height: 656
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d665279170a0240800000000000000
+      internalID: 4758623762144193946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_46
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 1589
+        width: 644
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf6716d19c77d50800000000000000
+      internalID: 6735072895782288820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_47
+      rect:
+        serializedVersion: 2
+        x: 5714
+        y: 1589
+        width: 624
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b764cc0ec8af727e0800000000000000
+      internalID: -1790186843882633605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_48
+      rect:
+        serializedVersion: 2
+        x: 6338
+        y: 1574
+        width: 553
+        height: 671
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40417c24d8c9200800000000000000
+      internalID: 188180602390054117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_49
+      rect:
+        serializedVersion: 2
+        x: 6892
+        y: 1598
+        width: 562
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e2b19840c57180800000000000000
+      internalID: -9118170452627102662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_50
+      rect:
+        serializedVersion: 2
+        x: 7454
+        y: 1598
+        width: 558
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9f5d491a5c192c0800000000000000
+      internalID: -4426539660951029311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 562
+        height: 650
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326afe3009f010350800000000000000
+      internalID: 5981078891340473891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_52
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 924
+        width: 555
+        height: 650
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8464ec604d83470800000000000000
+      internalID: 8374676632791042225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_53
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 919
+        width: 562
+        height: 654
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca8a11c193c94a30800000000000000
+      internalID: 4200103158277114572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_54
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 919
+        width: 554
+        height: 654
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4637b65044b01d0800000000000000
+      internalID: -3383535904970545992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_55
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 919
+        width: 562
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89eed89920c0840800000000000000
+      internalID: 5191527328985815248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_56
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 919
+        width: 552
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080b2c5db35db2e0800000000000000
+      internalID: -2108436977779275774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_57
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 919
+        width: 562
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72922b637bcd05af0800000000000000
+      internalID: -409584886635943641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_58
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 919
+        width: 552
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7a214dd413ee10800000000000000
+      internalID: 2225645581364788350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_59
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 919
+        width: 562
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fdc41d683a30e70800000000000000
+      internalID: 9080281073141473089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_60
+      rect:
+        serializedVersion: 2
+        x: 5026
+        y: 919
+        width: 552
+        height: 655
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28679d792c43000800000000000000
+      internalID: 14850656233226934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_61
+      rect:
+        serializedVersion: 2
+        x: 5601
+        y: 854
+        width: 580
+        height: 720
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271581f1c7c8fc8c0800000000000000
+      internalID: -3976805481219337870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_62
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 856
+        width: 576
+        height: 718
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c026e1f561de240800000000000000
+      internalID: 4822535373771115634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_63
+      rect:
+        serializedVersion: 2
+        x: 6757
+        y: 856
+        width: 585
+        height: 717
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021c859a76913bb0800000000000000
+      internalID: -4958016261519044096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_64
+      rect:
+        serializedVersion: 2
+        x: 7342
+        y: 857
+        width: 580
+        height: 717
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b5aa031b4d6d1b0800000000000000
+      internalID: -5632080426489455793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 589
+        height: 717
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa8e694849399b0800000000000000
+      internalID: -5074549057927992643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_66
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 133
+        width: 577
+        height: 720
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69599c6a5b7401340800000000000000
+      internalID: 4832441245681423766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_67
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 133
+        width: 586
+        height: 721
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f64e15c1a013b50800000000000000
+      internalID: 6571044448059551534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_68
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 131
+        width: 575
+        height: 723
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ba2558bc4822d30800000000000000
+      internalID: 4405229395171781422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_69
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 131
+        width: 584
+        height: 723
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51d39b3af6a8840800000000000000
+      internalID: 5227113066495022573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_70
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 130
+        width: 575
+        height: 723
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a723fa0bb30ef10800000000000000
+      internalID: 2296901439998556770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_71
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 131
+        width: 584
+        height: 723
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070721b2723a03de0800000000000000
+      internalID: -1355404099216838544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_72
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 131
+        width: 575
+        height: 723
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a26d73cff47a490800000000000000
+      internalID: -7735125890298402296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cynthia_73
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 130
+        width: 584
+        height: 723
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457523dd74a1df360800000000000000
+      internalID: 7204943874818725716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

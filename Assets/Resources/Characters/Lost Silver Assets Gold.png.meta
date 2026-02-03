@@ -1,0 +1,1866 @@
+fileFormatVersion: 2
+guid: a31da8e886bb59e4d92d88bf5abe13cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -657552418684524528
+    second: Lost Silver Assets Gold_0
+  - first:
+      213: -5051799774624168381
+    second: Lost Silver Assets Gold_1
+  - first:
+      213: -4358405012908827845
+    second: Lost Silver Assets Gold_2
+  - first:
+      213: 8391291851954429457
+    second: Lost Silver Assets Gold_3
+  - first:
+      213: -1849380708564015088
+    second: Lost Silver Assets Gold_4
+  - first:
+      213: 4315320046787324433
+    second: Lost Silver Assets Gold_5
+  - first:
+      213: 1042855623536587862
+    second: Lost Silver Assets Gold_6
+  - first:
+      213: 5586410304642056294
+    second: Lost Silver Assets Gold_7
+  - first:
+      213: -6925549357616569358
+    second: Lost Silver Assets Gold_8
+  - first:
+      213: -8957391230396498247
+    second: Lost Silver Assets Gold_9
+  - first:
+      213: -3252631036408157792
+    second: Lost Silver Assets Gold_10
+  - first:
+      213: -6073190457902727663
+    second: Lost Silver Assets Gold_11
+  - first:
+      213: -6176246631571683515
+    second: Lost Silver Assets Gold_12
+  - first:
+      213: 5926159873579819611
+    second: Lost Silver Assets Gold_13
+  - first:
+      213: -8062016350711789516
+    second: Lost Silver Assets Gold_14
+  - first:
+      213: 8840333147208654450
+    second: Lost Silver Assets Gold_15
+  - first:
+      213: 2874516078477451949
+    second: Lost Silver Assets Gold_16
+  - first:
+      213: 9205694929960808269
+    second: Lost Silver Assets Gold_17
+  - first:
+      213: -6660868993099755129
+    second: Lost Silver Assets Gold_18
+  - first:
+      213: 2235351687828334671
+    second: Lost Silver Assets Gold_19
+  - first:
+      213: -4159840308570583592
+    second: Lost Silver Assets Gold_20
+  - first:
+      213: 620500073813967023
+    second: Lost Silver Assets Gold_21
+  - first:
+      213: -8789959067764307844
+    second: Lost Silver Assets Gold_22
+  - first:
+      213: 3999353173872169489
+    second: Lost Silver Assets Gold_23
+  - first:
+      213: -2503773789614632899
+    second: Lost Silver Assets Gold_24
+  - first:
+      213: 1912872279714483237
+    second: Lost Silver Assets Gold_25
+  - first:
+      213: 388374903057419374
+    second: Lost Silver Assets Gold_26
+  - first:
+      213: -6458114940871358623
+    second: Lost Silver Assets Gold_27
+  - first:
+      213: -405089245301436494
+    second: Lost Silver Assets Gold_28
+  - first:
+      213: 6571123732144194699
+    second: Lost Silver Assets Gold_29
+  - first:
+      213: -6702920450059922575
+    second: Lost Silver Assets Gold_30
+  - first:
+      213: -4514870882107470429
+    second: Lost Silver Assets Gold_31
+  - first:
+      213: 7493696349714915576
+    second: Lost Silver Assets Gold_32
+  - first:
+      213: 2269543317168772574
+    second: Lost Silver Assets Gold_33
+  - first:
+      213: 6257372322103405400
+    second: Lost Silver Assets Gold_34
+  - first:
+      213: -6163082733768339707
+    second: Lost Silver Assets Gold_35
+  - first:
+      213: 2261253295540633769
+    second: Lost Silver Assets Gold_36
+  - first:
+      213: 2677143063391387500
+    second: Lost Silver Assets Gold_37
+  - first:
+      213: 8912315366319323407
+    second: Lost Silver Assets Gold_38
+  - first:
+      213: -2672900510724662137
+    second: Lost Silver Assets Gold_39
+  - first:
+      213: 3960734166420741823
+    second: Lost Silver Assets Gold_40
+  - first:
+      213: 7274287130006429140
+    second: Lost Silver Assets Gold_41
+  - first:
+      213: -8513853805713338555
+    second: Lost Silver Assets Gold_42
+  - first:
+      213: 4408565723492739008
+    second: Lost Silver Assets Gold_43
+  - first:
+      213: -1722050034336347946
+    second: Lost Silver Assets Gold_44
+  - first:
+      213: 9012475486726036691
+    second: Lost Silver Assets Gold_45
+  - first:
+      213: 2545221513628020087
+    second: Lost Silver Assets Gold_46
+  - first:
+      213: 5341600563442432568
+    second: Lost Silver Assets Gold_47
+  - first:
+      213: 7790657625074039463
+    second: Lost Silver Assets Gold_48
+  - first:
+      213: -5727319582778535681
+    second: Lost Silver Assets Gold_49
+  - first:
+      213: -750708644439338781
+    second: Lost Silver Assets Gold_50
+  - first:
+      213: -6696232837054825275
+    second: Lost Silver Assets Gold_51
+  - first:
+      213: 7889213822663229031
+    second: Lost Silver Assets Gold_52
+  - first:
+      213: 6993524930247489072
+    second: Lost Silver Assets Gold_53
+  - first:
+      213: -8517587412631288119
+    second: Lost Silver Assets Gold_54
+  - first:
+      213: -7837593777779012320
+    second: Lost Silver Assets Gold_55
+  - first:
+      213: -3044675502602604829
+    second: Lost Silver Assets Gold_56
+  - first:
+      213: -7148798378214780765
+    second: Lost Silver Assets Gold_57
+  - first:
+      213: -4878520239132782237
+    second: Lost Silver Assets Gold_58
+  - first:
+      213: -8541533494218478484
+    second: Lost Silver Assets Gold_59
+  - first:
+      213: 2478693073689109631
+    second: Lost Silver Assets Gold_60
+  - first:
+      213: -4454061874801800972
+    second: Lost Silver Assets Gold_61
+  - first:
+      213: 2396712579014250921
+    second: Lost Silver Assets Gold_62
+  - first:
+      213: 1086754996813595013
+    second: Lost Silver Assets Gold_63
+  - first:
+      213: 8656260036869886001
+    second: Lost Silver Assets Gold_64
+  - first:
+      213: -2977334023001816541
+    second: Lost Silver Assets Gold_65
+  - first:
+      213: -4627521096519091885
+    second: Lost Silver Assets Gold_66
+  - first:
+      213: 5519053103389838015
+    second: Lost Silver Assets Gold_67
+  - first:
+      213: 8733406981868953435
+    second: Lost Silver Assets Gold_68
+  - first:
+      213: -6627733832669930821
+    second: Lost Silver Assets Gold_69
+  - first:
+      213: 7791318001340642420
+    second: Lost Silver Assets Gold_70
+  - first:
+      213: -4595324581094188369
+    second: Lost Silver Assets Gold_71
+  - first:
+      213: -3727591372573870514
+    second: Lost Silver Assets Gold_72
+  - first:
+      213: -6187271295025065916
+    second: Lost Silver Assets Gold_73
+  - first:
+      213: -3783271498157579758
+    second: Lost Silver Assets Gold_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3388
+        width: 406
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0182c1f1f87efd6f0800000000000000
+      internalID: -657552418684524528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3403
+        width: 414
+        height: 693
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346c02dded664e9b0800000000000000
+      internalID: -5051799774624168381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3400
+        width: 407
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b994a8bb5d383c0800000000000000
+      internalID: -4358405012908827845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_3
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 3402
+        width: 406
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e9f5afa7bd37470800000000000000
+      internalID: 8391291851954429457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_4
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 3402
+        width: 404
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e4934b0ea556e0800000000000000
+      internalID: -1849380708564015088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_5
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 3402
+        width: 406
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a61e018b813eb30800000000000000
+      internalID: 4315320046787324433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_6
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3440
+        width: 763
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654bae01aa7f87e00800000000000000
+      internalID: 1042855623536587862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_7
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 3478
+        width: 693
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66085c1f29ae68d40800000000000000
+      internalID: 5586410304642056294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_8
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 3469
+        width: 687
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f364d86d8183ef90800000000000000
+      internalID: -6925549357616569358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_9
+      rect:
+        serializedVersion: 2
+        x: 4764
+        y: 3474
+        width: 660
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be740e5224f0b380800000000000000
+      internalID: -8957391230396498247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_10
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 3467
+        width: 657
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a92b793e455cd2d0800000000000000
+      internalID: -3252631036408157792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_11
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 3466
+        width: 657
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e7a67a471b7bba0800000000000000
+      internalID: -6073190457902727663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_12
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 3464
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54787f76960994aa0800000000000000
+      internalID: -6176246631571683515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_13
+      rect:
+        serializedVersion: 2
+        x: 7473
+        y: 3465
+        width: 653
+        height: 630
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5226e2c103fd3250800000000000000
+      internalID: 5926159873579819611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ce6ae7d6fd1090800000000000000
+      internalID: -8062016350711789516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_15
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9b77c82c2faa70800000000000000
+      internalID: 8840333147208654450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_16
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da22cceb42554e720800000000000000
+      internalID: 2874516078477451949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_17
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fade2d3c231cf70800000000000000
+      internalID: 9205694929960808269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_18
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78110ea01f6df83a0800000000000000
+      internalID: -6660868993099755129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_19
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48e3154480950f10800000000000000
+      internalID: 2235351687828334671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_20
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8c4577474546c0800000000000000
+      internalID: -4159840308570583592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_21
+      rect:
+        serializedVersion: 2
+        x: 4711
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa009c297857c9800800000000000000
+      internalID: 620500073813967023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_22
+      rect:
+        serializedVersion: 2
+        x: 5384
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784faf8ccac30680800000000000000
+      internalID: -8789959067764307844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_23
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 2737
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1125bfba58e808730800000000000000
+      internalID: 3999353173872169489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_24
+      rect:
+        serializedVersion: 2
+        x: 6730
+        y: 2873
+        width: 496
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d301610010fc04dd0800000000000000
+      internalID: -2503773789614632899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_25
+      rect:
+        serializedVersion: 2
+        x: 7245
+        y: 2903
+        width: 470
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc21d1433eb8a10800000000000000
+      internalID: 1912872279714483237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 477
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0a68aae8c36500800000000000000
+      internalID: 388374903057419374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_27
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2268
+        width: 477
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16748b68daa2066a0800000000000000
+      internalID: -6458114940871358623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_28
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2273
+        width: 480
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0a774a75d06af0800000000000000
+      internalID: -405089245301436494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_29
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2273
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8408951832513b50800000000000000
+      internalID: 6571123732144194699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_30
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2273
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731a704d517af2a0800000000000000
+      internalID: -6702920450059922575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_31
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2273
+        width: 481
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adca318ad4f751c0800000000000000
+      internalID: -4514870882107470429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_32
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2273
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f026637025fef760800000000000000
+      internalID: 7493696349714915576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_33
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 2273
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d4365f990f7f10800000000000000
+      internalID: 2269543317168772574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_34
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 2273
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ba55659f6a6d650800000000000000
+      internalID: 6257372322103405400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_35
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 2273
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f056438e4587aa0800000000000000
+      internalID: -6163082733768339707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_36
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 2273
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a081e344e5916f10800000000000000
+      internalID: 2261253295540633769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_37
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 2273
+        width: 482
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f385a9e6f172520800000000000000
+      internalID: 2677143063391387500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_38
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 2139
+        width: 386
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f7bf2b97eeab70800000000000000
+      internalID: 8912315366319323407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_39
+      rect:
+        serializedVersion: 2
+        x: 6418
+        y: 2138
+        width: 387
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cdb4aa523f7ead0800000000000000
+      internalID: -2672900510724662137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_40
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 2138
+        width: 387
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed24f4dba57f630800000000000000
+      internalID: 3960734166420741823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_41
+      rect:
+        serializedVersion: 2
+        x: 7232
+        y: 2139
+        width: 387
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd9a3a9a9573f460800000000000000
+      internalID: 7274287130006429140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1497
+        width: 645
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f49d07217b8d980800000000000000
+      internalID: -8513853805713338555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_43
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1521
+        width: 616
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c76fbdfa2f5e2d30800000000000000
+      internalID: 4408565723492739008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_45
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1519
+        width: 630
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc983d74beb21d70800000000000000
+      internalID: 9012475486726036691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_47
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1522
+        width: 615
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a3304596d212a40800000000000000
+      internalID: 5341600563442432568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_48
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 1521
+        width: 592
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf93555d9fd1c60800000000000000
+      internalID: 7790657625074039463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_49
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1519
+        width: 585
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0d8512f297480b0800000000000000
+      internalID: -5727319582778535681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_50
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 1518
+        width: 580
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d06e1772f495f0800000000000000
+      internalID: -750708644439338781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_51
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1517
+        width: 576
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7a0e76b33213a0800000000000000
+      internalID: -6696232837054825275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_52
+      rect:
+        serializedVersion: 2
+        x: 5348
+        y: 1516
+        width: 575
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e71f04c2e1c7d60800000000000000
+      internalID: 7889213822663229031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_53
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 1515
+        width: 573
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0367d3beeddfd0160800000000000000
+      internalID: 6993524930247489072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_54
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 1516
+        width: 574
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c606c650637bc980800000000000000
+      internalID: -8517587412631288119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_55
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 1516
+        width: 574
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d8ba50cf54b3390800000000000000
+      internalID: -7837593777779012320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 573
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea90303c32fb5d0800000000000000
+      internalID: -3044675502602604829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_57
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 876
+        width: 573
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a09e9f30cd5acc90800000000000000
+      internalID: -7148798378214780765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_58
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 877
+        width: 574
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361dfe4a0b30c4cb0800000000000000
+      internalID: -4878520239132782237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_59
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 877
+        width: 575
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ca100ca80667980800000000000000
+      internalID: -8541533494218478484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_60
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 876
+        width: 573
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e574c736166220800000000000000
+      internalID: 2478693073689109631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_61
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 876
+        width: 573
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f804d0d25eff22c0800000000000000
+      internalID: -4454061874801800972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_62
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 900
+        width: 386
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1dadc6465d24120800000000000000
+      internalID: 2396712579014250921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_63
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 900
+        width: 387
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58184f669ede41f00800000000000000
+      internalID: 1086754996813595013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_64
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 899
+        width: 387
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1301a0504a6312870800000000000000
+      internalID: 8656260036869886001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_65
+      rect:
+        serializedVersion: 2
+        x: 4778
+        y: 900
+        width: 387
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322ca4d0b726ea6d0800000000000000
+      internalID: -2977334023001816541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_66
+      rect:
+        serializedVersion: 2
+        x: 5185
+        y: 900
+        width: 387
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597a53941eb7cfb0800000000000000
+      internalID: -4627521096519091885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_67
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 979
+        width: 386
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba811c6e8d979c40800000000000000
+      internalID: 5519053103389838015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_68
+      rect:
+        serializedVersion: 2
+        x: 5998
+        y: 958
+        width: 386
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1731e06b433970800000000000000
+      internalID: 8733406981868953435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_69
+      rect:
+        serializedVersion: 2
+        x: 6404
+        y: 942
+        width: 387
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaded5c13f8504a0800000000000000
+      internalID: -6627733832669930821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_70
+      rect:
+        serializedVersion: 2
+        x: 6811
+        y: 923
+        width: 387
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f30a2172502c60800000000000000
+      internalID: 7791318001340642420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_71
+      rect:
+        serializedVersion: 2
+        x: 7218
+        y: 908
+        width: 387
+        height: 569
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa924cf3a02a30c0800000000000000
+      internalID: -4595324581094188369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_72
+      rect:
+        serializedVersion: 2
+        x: 7625
+        y: 908
+        width: 387
+        height: 569
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467ce1756fe44cc0800000000000000
+      internalID: -3727591372573870514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 387
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4405f0be985622aa0800000000000000
+      internalID: -6187271295025065916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Silver Assets Gold_74
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 278
+        width: 387
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2122577fd9e1f7bc0800000000000000
+      internalID: -3783271498157579758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
