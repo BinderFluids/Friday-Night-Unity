@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: bb78eaa841364014abb2f3ffe28edeb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5897002748875325806
+    second: Mikubi_0
+  - first:
+      213: -2995144154933281397
+    second: Mikubi_1
+  - first:
+      213: -109771987863999712
+    second: Mikubi_2
+  - first:
+      213: -1608012177459614198
+    second: Mikubi_3
+  - first:
+      213: 6614072888142577389
+    second: Mikubi_4
+  - first:
+      213: -6431956220952605066
+    second: Mikubi_5
+  - first:
+      213: 8203520917356097173
+    second: Mikubi_6
+  - first:
+      213: -807484633719318403
+    second: Mikubi_7
+  - first:
+      213: -4971025050565378
+    second: Mikubi_8
+  - first:
+      213: 8587881387591579035
+    second: Mikubi_9
+  - first:
+      213: -1750231765116907354
+    second: Mikubi_10
+  - first:
+      213: 753171397240020561
+    second: Mikubi_11
+  - first:
+      213: 3413835307804418641
+    second: Mikubi_12
+  - first:
+      213: 537695818206520987
+    second: Mikubi_13
+  - first:
+      213: -2065939819059783967
+    second: Mikubi_14
+  - first:
+      213: 648856602796625879
+    second: Mikubi_15
+  - first:
+      213: 4299683828159247709
+    second: Mikubi_16
+  - first:
+      213: 6766545998064673810
+    second: Mikubi_17
+  - first:
+      213: 1431134938808550118
+    second: Mikubi_18
+  - first:
+      213: 1934168069485278937
+    second: Mikubi_19
+  - first:
+      213: 2464692492639483389
+    second: Mikubi_20
+  - first:
+      213: -8282158722643699976
+    second: Mikubi_21
+  - first:
+      213: -3946231954806679024
+    second: Mikubi_22
+  - first:
+      213: 8776526938404527631
+    second: Mikubi_23
+  - first:
+      213: 6251190174566523635
+    second: Mikubi_24
+  - first:
+      213: -8710256869490814864
+    second: Mikubi_25
+  - first:
+      213: 5480208640099086211
+    second: Mikubi_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mikubi_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3402
+        width: 410
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e614736a1cc56d150800000000000000
+      internalID: 5897002748875325806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3402
+        width: 410
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d3d12924c1f66d0800000000000000
+      internalID: -2995144154933281397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 3402
+        width: 412
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02be31965f20a7ef0800000000000000
+      internalID: -109771987863999712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_3
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3402
+        width: 412
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6408b1713fa9e0800000000000000
+      internalID: -1608012177459614198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_4
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 3402
+        width: 413
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb748bf38e9cb50800000000000000
+      internalID: 6614072888142577389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_5
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3402
+        width: 412
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e814f15e91db6a0800000000000000
+      internalID: -6431956220952605066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_6
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 3379
+        width: 411
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e2f7a6fc2c8d170800000000000000
+      internalID: 8203520917356097173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_7
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 3379
+        width: 410
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78d29df00d3bc4f0800000000000000
+      internalID: -807484633719318403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_8
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 3379
+        width: 406
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef401b901e65eeff0800000000000000
+      internalID: -4971025050565378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2660
+        width: 401
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b5981f984e2770800000000000000
+      internalID: 8587881387591579035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2660
+        width: 399
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a01a959b7de5b7e0800000000000000
+      internalID: -1750231765116907354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_11
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2660
+        width: 399
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ed973356dc37a00800000000000000
+      internalID: 753171397240020561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_12
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2622
+        width: 460
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1526e5b0021606f20800000000000000
+      internalID: 3413835307804418641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_13
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2622
+        width: 499
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96a9617f77467700800000000000000
+      internalID: 537695818206520987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_14
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2622
+        width: 530
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e65b9d2eae4453e0800000000000000
+      internalID: -2065939819059783967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_15
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2622
+        width: 512
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df0cd774a3310900800000000000000
+      internalID: 648856602796625879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_16
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 2622
+        width: 513
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d557ce739ab8bab30800000000000000
+      internalID: 4299683828159247709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1888
+        width: 451
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2146cfa0cb997ed50800000000000000
+      internalID: 6766545998064673810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1888
+        width: 455
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e28555f4a96cd310800000000000000
+      internalID: 1431134938808550118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_19
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1888
+        width: 470
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b29d8c9b87da10800000000000000
+      internalID: 1934168069485278937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_20
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1888
+        width: 461
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5395873c8543220800000000000000
+      internalID: 2464692492639483389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_21
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1888
+        width: 459
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f65b63c58cdf0d80800000000000000
+      internalID: -8282158722643699976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_22
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1877
+        width: 417
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ad374f1fa2c39c0800000000000000
+      internalID: -3946231954806679024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_23
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1877
+        width: 413
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e9f3d10cc7cc970800000000000000
+      internalID: 8776526938404527631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_24
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 1877
+        width: 423
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f22372f750b0c650800000000000000
+      internalID: 6251190174566523635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1133
+        width: 420
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070189fa683fe1780800000000000000
+      internalID: -8710256869490814864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikubi_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1133
+        width: 418
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe12809bc9d0c40800000000000000
+      internalID: 5480208640099086211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

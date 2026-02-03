@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: da0133fda234671c29d3ad510f0db669
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3408592562934689224
+    second: Needlemouse_0
+  - first:
+      213: -689692698497843960
+    second: Needlemouse_1
+  - first:
+      213: -7472913535793995338
+    second: Needlemouse_2
+  - first:
+      213: -4894750653388175907
+    second: Needlemouse_3
+  - first:
+      213: 773494060094633163
+    second: Needlemouse_4
+  - first:
+      213: -1862540046134661488
+    second: Needlemouse_5
+  - first:
+      213: 8170342564971409408
+    second: Needlemouse_6
+  - first:
+      213: 2346828410713192002
+    second: Needlemouse_7
+  - first:
+      213: 4824245719878785451
+    second: Needlemouse_8
+  - first:
+      213: 8634667004362705333
+    second: Needlemouse_9
+  - first:
+      213: 1655553132918893288
+    second: Needlemouse_10
+  - first:
+      213: -3258816602646497107
+    second: Needlemouse_11
+  - first:
+      213: -1338370308513652096
+    second: Needlemouse_12
+  - first:
+      213: -1907802699918258582
+    second: Needlemouse_13
+  - first:
+      213: 6110872812329895422
+    second: Needlemouse_14
+  - first:
+      213: -1251102440906399185
+    second: Needlemouse_15
+  - first:
+      213: 6526967734222293442
+    second: Needlemouse_16
+  - first:
+      213: 8168650841326455069
+    second: Needlemouse_17
+  - first:
+      213: 6991994708189150764
+    second: Needlemouse_18
+  - first:
+      213: 3001382390157284680
+    second: Needlemouse_19
+  - first:
+      213: 6513787273413444493
+    second: Needlemouse_20
+  - first:
+      213: -2152171321573637123
+    second: Needlemouse_21
+  - first:
+      213: 1696231327384453500
+    second: Needlemouse_22
+  - first:
+      213: -7653024940247626311
+    second: Needlemouse_23
+  - first:
+      213: -8569319505499093350
+    second: Needlemouse_24
+  - first:
+      213: -6059667293405884670
+    second: Needlemouse_25
+  - first:
+      213: -2682014873148391039
+    second: Needlemouse_26
+  - first:
+      213: -1711742184961556617
+    second: Needlemouse_27
+  - first:
+      213: 5903781982166264515
+    second: Needlemouse_28
+  - first:
+      213: -7111157214030217674
+    second: Needlemouse_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Needlemouse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3601
+        width: 442
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda2c160e0cd4f20800000000000000
+      internalID: 3408592562934689224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3600
+        width: 443
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dfad51528bd66f0800000000000000
+      internalID: -689692698497843960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 3600
+        width: 435
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b16acd7bb0ea4890800000000000000
+      internalID: -7472913535793995338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_3
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 3598
+        width: 413
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5cfa8d63a521cb0800000000000000
+      internalID: -4894750653388175907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_4
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 3599
+        width: 426
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4b0dfdfb00cba00800000000000000
+      internalID: 773494060094633163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_5
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 3638
+        width: 297
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e243a32bde626e0800000000000000
+      internalID: -1862540046134661488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_6
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 3638
+        width: 297
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ff564643e26170800000000000000
+      internalID: 8170342564971409408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_7
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 3639
+        width: 302
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246ba59610c919020800000000000000
+      internalID: 2346828410713192002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_8
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 3638
+        width: 301
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9d29a1ce923f240800000000000000
+      internalID: 4824245719878785451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_9
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 3638
+        width: 311
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b943dc54ef74d770800000000000000
+      internalID: 8634667004362705333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_10
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 3637
+        width: 311
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea6a6a8dc4b9f610800000000000000
+      internalID: 1655553132918893288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3140
+        width: 304
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da83c1bd09b56c2d0800000000000000
+      internalID: -3258816602646497107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3140
+        width: 300
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0822d1f9b472d6de0800000000000000
+      internalID: -1338370308513652096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3140
+        width: 303
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e47d96d8f1685e0800000000000000
+      internalID: -1907802699918258582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3140
+        width: 297
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5048e227e2ec450800000000000000
+      internalID: 6110872812329895422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_15
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3113
+        width: 494
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22662865f033aee0800000000000000
+      internalID: -1251102440906399185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_16
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 3113
+        width: 462
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c981caa292749a50800000000000000
+      internalID: 6526967734222293442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_17
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 3113
+        width: 446
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19857b29a0ec5170800000000000000
+      internalID: 8168650841326455069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_18
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 3113
+        width: 395
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e7605542e880160800000000000000
+      internalID: 6991994708189150764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_19
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 3113
+        width: 423
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8451070c16d07a920800000000000000
+      internalID: 3001382390157284680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2626
+        width: 545
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83c44e730f956a50800000000000000
+      internalID: 6513787273413444493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_21
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2626
+        width: 551
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df302d1f593f122e0800000000000000
+      internalID: -2152171321573637123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_22
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2626
+        width: 550
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71c3adb7693a8710800000000000000
+      internalID: 1696231327384453500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_23
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2625
+        width: 508
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdc5534d5efac590800000000000000
+      internalID: -7653024940247626311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_24
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2626
+        width: 517
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9686ebdf49a31980800000000000000
+      internalID: -8569319505499093350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_25
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 2468
+        width: 331
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f4d7fb3bcb7eba0800000000000000
+      internalID: -6059667293405884670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_26
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 2469
+        width: 365
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1810dabcea197cad0800000000000000
+      internalID: -2682014873148391039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1825
+        width: 389
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fb05e4d8bae38e0800000000000000
+      internalID: -1711742184961556617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1826
+        width: 455
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca2f56ee627ee150800000000000000
+      internalID: 5903781982166264515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needlemouse_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1825
+        width: 410
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eb5cbb038105d90800000000000000
+      internalID: -7111157214030217674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: b676b010efbd3b169b9201321212a644
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3424632224575835628
+    second: moment of yes_0
+  - first:
+      213: 7403310243838081100
+    second: moment of yes_1
+  - first:
+      213: 2082814428086594063
+    second: moment of yes_2
+  - first:
+      213: 923991562257300353
+    second: moment of yes_3
+  - first:
+      213: 867652012121670925
+    second: moment of yes_4
+  - first:
+      213: -1639448528323004660
+    second: moment of yes_5
+  - first:
+      213: 7126974241956045085
+    second: moment of yes_6
+  - first:
+      213: -258140664161275613
+    second: moment of yes_7
+  - first:
+      213: -1650685221916460908
+    second: moment of yes_8
+  - first:
+      213: 5912497559942453354
+    second: moment of yes_9
+  - first:
+      213: -1573446515564072448
+    second: moment of yes_10
+  - first:
+      213: -4108019792455285424
+    second: moment of yes_11
+  - first:
+      213: -682729422038721240
+    second: moment of yes_12
+  - first:
+      213: -7555042489344441249
+    second: moment of yes_13
+  - first:
+      213: -1307012738979936877
+    second: moment of yes_14
+  - first:
+      213: -4546528170583703577
+    second: moment of yes_15
+  - first:
+      213: -7309913023994654083
+    second: moment of yes_16
+  - first:
+      213: -7382682670222250629
+    second: moment of yes_17
+  - first:
+      213: -3533878130986407454
+    second: moment of yes_18
+  - first:
+      213: -3947037090551122042
+    second: moment of yes_19
+  - first:
+      213: 5260066720292901225
+    second: moment of yes_20
+  - first:
+      213: -8474966407309456104
+    second: moment of yes_21
+  - first:
+      213: -8772696311237554207
+    second: moment of yes_22
+  - first:
+      213: 6764458845174523741
+    second: moment of yes_23
+  - first:
+      213: -6547266714044475281
+    second: moment of yes_24
+  - first:
+      213: -6772145458408998537
+    second: moment of yes_25
+  - first:
+      213: -6880893540519477566
+    second: moment of yes_26
+  - first:
+      213: -9214397269323427341
+    second: moment of yes_27
+  - first:
+      213: -3726336469730099651
+    second: moment of yes_28
+  - first:
+      213: 2074686664848723798
+    second: moment of yes_29
+  - first:
+      213: 4490541672957550971
+    second: moment of yes_30
+  - first:
+      213: 8980777687796223465
+    second: moment of yes_31
+  - first:
+      213: 8648473577261382780
+    second: moment of yes_32
+  - first:
+      213: -1718018178403387573
+    second: moment of yes_33
+  - first:
+      213: -268924212397169958
+    second: moment of yes_34
+  - first:
+      213: 1395897255373500865
+    second: moment of yes_35
+  - first:
+      213: 689968117859835012
+    second: moment of yes_36
+  - first:
+      213: -1636695592189160223
+    second: moment of yes_37
+  - first:
+      213: -5180755873034195646
+    second: moment of yes_38
+  - first:
+      213: -9098273697291240870
+    second: moment of yes_39
+  - first:
+      213: -237221947518151120
+    second: moment of yes_40
+  - first:
+      213: -6018742514844590536
+    second: moment of yes_41
+  - first:
+      213: 905402917941702256
+    second: moment of yes_42
+  - first:
+      213: 8456170506215933226
+    second: moment of yes_43
+  - first:
+      213: -4430675375206787197
+    second: moment of yes_44
+  - first:
+      213: 3095410861634666842
+    second: moment of yes_45
+  - first:
+      213: 7704053784184931784
+    second: moment of yes_46
+  - first:
+      213: 7711964473338597663
+    second: moment of yes_47
+  - first:
+      213: -6643484208786537276
+    second: moment of yes_48
+  - first:
+      213: 5433699025872717252
+    second: moment of yes_49
+  - first:
+      213: -4355763959478203103
+    second: moment of yes_50
+  - first:
+      213: -7932061657104127577
+    second: moment of yes_51
+  - first:
+      213: 8889374522680991390
+    second: moment of yes_52
+  - first:
+      213: -1632854917292471047
+    second: moment of yes_53
+  - first:
+      213: -107185543264101276
+    second: moment of yes_54
+  - first:
+      213: -3482071454420151040
+    second: moment of yes_55
+  - first:
+      213: 1138356211207466189
+    second: moment of yes_56
+  - first:
+      213: -7971643670790703249
+    second: moment of yes_57
+  - first:
+      213: -1690226229209672039
+    second: moment of yes_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moment of yes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3760
+        width: 380
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedc2302ddcb68f20800000000000000
+      internalID: 3424632224575835628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3759
+        width: 373
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48bafd3177ddb660800000000000000
+      internalID: 7403310243838081100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 3752
+        width: 369
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ae827efa4a7ec10800000000000000
+      internalID: 2082814428086594063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_3
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 3752
+        width: 369
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bfdcb2e6da2dc00800000000000000
+      internalID: 923991562257300353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_4
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 3752
+        width: 369
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d054a2378e48a0c00800000000000000
+      internalID: 867652012121670925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_5
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 3752
+        width: 370
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0735c9ef328f39e0800000000000000
+      internalID: -1639448528323004660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_6
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 3752
+        width: 369
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11262f005918e260800000000000000
+      internalID: 7126974241956045085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_7
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 3752
+        width: 369
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32175920f66ea6cf0800000000000000
+      internalID: -258140664161275613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_8
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 3713
+        width: 392
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498beaf49869719e0800000000000000
+      internalID: -1650685221916460908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_9
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 3711
+        width: 390
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68dbbb74396d0250800000000000000
+      internalID: 5912497559942453354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3324
+        width: 386
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0023ab60bbef92ae0800000000000000
+      internalID: -1573446515564072448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3307
+        width: 393
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055cd6493c16df6c0800000000000000
+      internalID: -4108019792455285424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_12
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3311
+        width: 386
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d9ca935357686f0800000000000000
+      internalID: -682729422038721240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_13
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 3252
+        width: 379
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5444af52e8172790800000000000000
+      internalID: -7555042489344441249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_14
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 3214
+        width: 473
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395c038b6de8cdde0800000000000000
+      internalID: -1307012738979936877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_15
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 3213
+        width: 512
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef3d07a7bc77e0c0800000000000000
+      internalID: -4546528170583703577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_16
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 3212
+        width: 515
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d721cc195d8fd8a90800000000000000
+      internalID: -7309913023994654083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_17
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 2706
+        width: 585
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d68fff9317b8990800000000000000
+      internalID: -7382682670222250629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_18
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 3207
+        width: 518
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9a80b209425fec0800000000000000
+      internalID: -3533878130986407454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2711
+        width: 517
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687b86eadae4939c0800000000000000
+      internalID: -3947037090551122042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2706
+        width: 518
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96199e520d28ff840800000000000000
+      internalID: 5260066720292901225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_21
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2706
+        width: 518
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d83f074fed26a80800000000000000
+      internalID: -8474966407309456104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_22
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2706
+        width: 518
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef4e464f2f114680800000000000000
+      internalID: -8772696311237554207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_23
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 2706
+        width: 518
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d576064ea7f20ed50800000000000000
+      internalID: 6764458845174523741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_24
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 2211
+        width: 547
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68d3abcc9f6325a0800000000000000
+      internalID: -6547266714044475281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2205
+        width: 517
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779b14006918402a0800000000000000
+      internalID: -6772145458408998537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2205
+        width: 518
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce7e0c08c72280a0800000000000000
+      internalID: -6880893540519477566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_27
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2205
+        width: 518
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1d5a6e082ef1080800000000000000
+      internalID: -9214397269323427341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_28
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1817
+        width: 518
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e772849b4694cc0800000000000000
+      internalID: -3726336469730099651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_29
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 2206
+        width: 529
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f4c8e8784cacc10800000000000000
+      internalID: 2074686664848723798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_30
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2231
+        width: 520
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7129b11cdb915e30800000000000000
+      internalID: 4490541672957550971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_31
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 2312
+        width: 383
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed09df89b122ac70800000000000000
+      internalID: 8980777687796223465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1826
+        width: 390
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c340e95ec850870800000000000000
+      internalID: 8648473577261382780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1823
+        width: 390
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b473a96b19f5828e0800000000000000
+      internalID: -1718018178403387573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_34
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1822
+        width: 390
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a0988ad6944cf0800000000000000
+      internalID: -268924212397169958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_35
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1817
+        width: 397
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1fa7178293f5310800000000000000
+      internalID: 1395897255373500865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_36
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1818
+        width: 382
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c516bf852439900800000000000000
+      internalID: 689968117859835012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_37
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1818
+        width: 380
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e41e1ec70a4949e0800000000000000
+      internalID: -1636695592189160223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_38
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1811
+        width: 374
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d27c77bf14a18b0800000000000000
+      internalID: -5180755873034195646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_39
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1811
+        width: 405
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5afcabe6407cb180800000000000000
+      internalID: -9098273697291240870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_40
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1803
+        width: 424
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036114545e735bcf0800000000000000
+      internalID: -237221947518151120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1401
+        width: 418
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e95284291297ca0800000000000000
+      internalID: -6018742514844590536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1392
+        width: 412
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e64862823a09c00800000000000000
+      internalID: 905402917941702256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_43
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1392
+        width: 412
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25c22fc54a5a5570800000000000000
+      internalID: 8456170506215933226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_44
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1375
+        width: 400
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3879ab198341382c0800000000000000
+      internalID: -4430675375206787197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_45
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1376
+        width: 1611
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51ce9947cb15fa20800000000000000
+      internalID: 3095410861634666842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_46
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 1398
+        width: 470
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c8d0591c4aea60800000000000000
+      internalID: 7704053784184931784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 472
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1197c924d6660b60800000000000000
+      internalID: 7711964473338597663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_48
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 971
+        width: 474
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c48c509f4a9dc3a0800000000000000
+      internalID: -6643484208786537276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_49
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 974
+        width: 465
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5878d9970686b40800000000000000
+      internalID: 5433699025872717252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_50
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 974
+        width: 465
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d4ad5b1c73d83c0800000000000000
+      internalID: -4355763959478203103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_51
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 974
+        width: 466
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9efcfd2f7abe190800000000000000
+      internalID: -7932061657104127577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_52
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 974
+        width: 465
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9edecbc7076d5b70800000000000000
+      internalID: 8889374522680991390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_53
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 974
+        width: 465
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc480d9a1fe659e0800000000000000
+      internalID: -1632854917292471047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_54
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 899
+        width: 401
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c9fa8f053338ef0800000000000000
+      internalID: -107185543264101276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_55
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 900
+        width: 402
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00552c406723dafc0800000000000000
+      internalID: -3482071454420151040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 402
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc61ec51f04ccf00800000000000000
+      internalID: 1138356211207466189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 429
+        width: 403
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67778621580f5190800000000000000
+      internalID: -7971643670790703249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moment of yes_58
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 429
+        width: 403
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996d8e1233c1b88e0800000000000000
+      internalID: -1690226229209672039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

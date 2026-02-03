@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 2752b22429de2d0d9bd1a14508bccf63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2783750308959260415
+    second: BFAnimsTEST_0
+  - first:
+      213: -2378210343377945776
+    second: BFAnimsTEST_1
+  - first:
+      213: 2694952274807804623
+    second: BFAnimsTEST_2
+  - first:
+      213: 4772699389813742742
+    second: BFAnimsTEST_3
+  - first:
+      213: 8472705242528306196
+    second: BFAnimsTEST_4
+  - first:
+      213: -2393378747112257687
+    second: BFAnimsTEST_5
+  - first:
+      213: 6437581307503007253
+    second: BFAnimsTEST_6
+  - first:
+      213: -1086716134490641037
+    second: BFAnimsTEST_7
+  - first:
+      213: -2122385295422561581
+    second: BFAnimsTEST_8
+  - first:
+      213: 2822600509686649017
+    second: BFAnimsTEST_9
+  - first:
+      213: -100121634792689985
+    second: BFAnimsTEST_10
+  - first:
+      213: -1442664454581344091
+    second: BFAnimsTEST_11
+  - first:
+      213: -1498436989766136928
+    second: BFAnimsTEST_12
+  - first:
+      213: -4683357806226609704
+    second: BFAnimsTEST_13
+  - first:
+      213: -1901417387039688939
+    second: BFAnimsTEST_14
+  - first:
+      213: -4390476300826452952
+    second: BFAnimsTEST_15
+  - first:
+      213: -4453931077884862223
+    second: BFAnimsTEST_16
+  - first:
+      213: 6981048034812579053
+    second: BFAnimsTEST_17
+  - first:
+      213: -4603711142625643253
+    second: BFAnimsTEST_18
+  - first:
+      213: 361249446190958714
+    second: BFAnimsTEST_19
+  - first:
+      213: -7325384648950952116
+    second: BFAnimsTEST_20
+  - first:
+      213: -5553879237683504707
+    second: BFAnimsTEST_21
+  - first:
+      213: -3198243712384013809
+    second: BFAnimsTEST_22
+  - first:
+      213: -7624550497751454201
+    second: BFAnimsTEST_23
+  - first:
+      213: 514683337177165556
+    second: BFAnimsTEST_24
+  - first:
+      213: 7029123602333027797
+    second: BFAnimsTEST_25
+  - first:
+      213: -7645232714624865172
+    second: BFAnimsTEST_26
+  - first:
+      213: 7302468469869458824
+    second: BFAnimsTEST_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BFAnimsTEST_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1576
+        width: 462
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe86e4382ed1a620800000000000000
+      internalID: 2783750308959260415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_1
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1576
+        width: 456
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3cc10b46eefed0800000000000000
+      internalID: -2378210343377945776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_2
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1576
+        width: 456
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2dc82c0d4666520800000000000000
+      internalID: 2694952274807804623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_3
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1572
+        width: 452
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c5295eec80c3240800000000000000
+      internalID: 4772699389813742742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_4
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1572
+        width: 456
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145d7b1788159570800000000000000
+      internalID: 8472705242528306196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_5
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1572
+        width: 453
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967876dc5b209ced0800000000000000
+      internalID: -2393378747112257687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_6
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1565
+        width: 408
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51659666712e65950800000000000000
+      internalID: 6437581307503007253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_7
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 1565
+        width: 406
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37defffee653be0f0800000000000000
+      internalID: -1086716134490641037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1092
+        width: 384
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d263d591d5cb82e0800000000000000
+      internalID: -2122385295422561581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1092
+        width: 378
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b095b27534eb2720800000000000000
+      internalID: 2822600509686649017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_10
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1092
+        width: 378
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbea9d357eb4c9ef0800000000000000
+      internalID: -100121634792689985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_11
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1101
+        width: 376
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8a8967250aafbe0800000000000000
+      internalID: -1442664454581344091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_12
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1097
+        width: 364
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab0fa23f7b743be0800000000000000
+      internalID: -1498436989766136928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_13
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1097
+        width: 374
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d96fc383ee510fb0800000000000000
+      internalID: -4683357806226609704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_14
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1097
+        width: 375
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177fbbe5fecc95e0800000000000000
+      internalID: -1901417387039688939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_15
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1097
+        width: 375
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cd77ee015e113c0800000000000000
+      internalID: -4390476300826452952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_16
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 1056
+        width: 340
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a99858457032c0800000000000000
+      internalID: -4453931077884862223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_17
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 1056
+        width: 331
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec41f2533aa1e060800000000000000
+      internalID: 6981048034812579053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 648
+        width: 317
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b057a477b155c10c0800000000000000
+      internalID: -4603711142625643253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 648
+        width: 328
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78c483157a630500800000000000000
+      internalID: 361249446190958714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 648
+        width: 328
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fcd2c2971075a90800000000000000
+      internalID: -7325384648950952116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_21
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 592
+        width: 331
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db915705248ace2b0800000000000000
+      internalID: -5553879237683504707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_22
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 588
+        width: 332
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a6932e94e8d93d0800000000000000
+      internalID: -3198243712384013809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_23
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 588
+        width: 331
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e2f7908b7203690800000000000000
+      internalID: -7624550497751454201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_24
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 588
+        width: 331
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fee14ca4c5842700800000000000000
+      internalID: 514683337177165556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_25
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 653
+        width: 328
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddcf57aca67c8160800000000000000
+      internalID: 7029123602333027797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_26
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 613
+        width: 317
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ce69b2a5da6e590800000000000000
+      internalID: -7645232714624865172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAnimsTEST_27
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 613
+        width: 317
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853f0a1264975560800000000000000
+      internalID: 7302468469869458824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

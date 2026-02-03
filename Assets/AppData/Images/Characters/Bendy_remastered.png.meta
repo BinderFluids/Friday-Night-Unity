@@ -1,0 +1,2467 @@
+fileFormatVersion: 2
+guid: 95b933f6747ef7b7ca3ce7e9ff5e86b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8436375908933990477
+    second: Bendy_remastered_0
+  - first:
+      213: -5691117173372875595
+    second: Bendy_remastered_1
+  - first:
+      213: -8221527705668524213
+    second: Bendy_remastered_2
+  - first:
+      213: -3900623511296540484
+    second: Bendy_remastered_3
+  - first:
+      213: -9060523021756372683
+    second: Bendy_remastered_4
+  - first:
+      213: 4018225543861543276
+    second: Bendy_remastered_5
+  - first:
+      213: 3198530404848256201
+    second: Bendy_remastered_6
+  - first:
+      213: 2640361220458372164
+    second: Bendy_remastered_7
+  - first:
+      213: -4580912842565672501
+    second: Bendy_remastered_8
+  - first:
+      213: 9066478468481117411
+    second: Bendy_remastered_9
+  - first:
+      213: 2412889693750031452
+    second: Bendy_remastered_10
+  - first:
+      213: -6283756803701753504
+    second: Bendy_remastered_11
+  - first:
+      213: 5059265384586807622
+    second: Bendy_remastered_12
+  - first:
+      213: 778498800492922042
+    second: Bendy_remastered_13
+  - first:
+      213: -3549482521231175564
+    second: Bendy_remastered_14
+  - first:
+      213: 53406444886371161
+    second: Bendy_remastered_15
+  - first:
+      213: -8783388325398439389
+    second: Bendy_remastered_16
+  - first:
+      213: 7625307413552456875
+    second: Bendy_remastered_17
+  - first:
+      213: 5254625541639628235
+    second: Bendy_remastered_18
+  - first:
+      213: 3192744446476845423
+    second: Bendy_remastered_19
+  - first:
+      213: -9048780729885593547
+    second: Bendy_remastered_20
+  - first:
+      213: 4704402705896211592
+    second: Bendy_remastered_21
+  - first:
+      213: 8643403704641469585
+    second: Bendy_remastered_22
+  - first:
+      213: -6196576433577973416
+    second: Bendy_remastered_23
+  - first:
+      213: -8873430154070169327
+    second: Bendy_remastered_24
+  - first:
+      213: -4781072627307607605
+    second: Bendy_remastered_25
+  - first:
+      213: 7138050988496721250
+    second: Bendy_remastered_26
+  - first:
+      213: 1106586953311890850
+    second: Bendy_remastered_27
+  - first:
+      213: 8077634861038036204
+    second: Bendy_remastered_28
+  - first:
+      213: 337173455246231094
+    second: Bendy_remastered_29
+  - first:
+      213: -915387784786368506
+    second: Bendy_remastered_30
+  - first:
+      213: -5417704121985959181
+    second: Bendy_remastered_31
+  - first:
+      213: -3629869358280164431
+    second: Bendy_remastered_32
+  - first:
+      213: 3686339478227141313
+    second: Bendy_remastered_33
+  - first:
+      213: 7432914267727922467
+    second: Bendy_remastered_34
+  - first:
+      213: -1988377967203504521
+    second: Bendy_remastered_35
+  - first:
+      213: 2390577896570583494
+    second: Bendy_remastered_36
+  - first:
+      213: 3389312420756625530
+    second: Bendy_remastered_37
+  - first:
+      213: -8166603351802777684
+    second: Bendy_remastered_38
+  - first:
+      213: 2054639500770289541
+    second: Bendy_remastered_39
+  - first:
+      213: -4960622792233843563
+    second: Bendy_remastered_40
+  - first:
+      213: -7248882796274985681
+    second: Bendy_remastered_41
+  - first:
+      213: 3435099742199401447
+    second: Bendy_remastered_42
+  - first:
+      213: 8341170302086198810
+    second: Bendy_remastered_43
+  - first:
+      213: 5410733163078168214
+    second: Bendy_remastered_44
+  - first:
+      213: -3958137100736318026
+    second: Bendy_remastered_45
+  - first:
+      213: -2890431478814273317
+    second: Bendy_remastered_46
+  - first:
+      213: -3135309169419407102
+    second: Bendy_remastered_47
+  - first:
+      213: 6822450370201623722
+    second: Bendy_remastered_48
+  - first:
+      213: -2111107221651027593
+    second: Bendy_remastered_49
+  - first:
+      213: -1197098062632404523
+    second: Bendy_remastered_50
+  - first:
+      213: -1792942257521522342
+    second: Bendy_remastered_51
+  - first:
+      213: -7357680059775592139
+    second: Bendy_remastered_52
+  - first:
+      213: -7891134690744854216
+    second: Bendy_remastered_53
+  - first:
+      213: 3695444588134944175
+    second: Bendy_remastered_54
+  - first:
+      213: -2354996942776828254
+    second: Bendy_remastered_55
+  - first:
+      213: -4066145411922039262
+    second: Bendy_remastered_56
+  - first:
+      213: 5331413379472686782
+    second: Bendy_remastered_57
+  - first:
+      213: 5957083631138537290
+    second: Bendy_remastered_58
+  - first:
+      213: 1142832936392951218
+    second: Bendy_remastered_59
+  - first:
+      213: -7604220986372395332
+    second: Bendy_remastered_60
+  - first:
+      213: 7411201028763630933
+    second: Bendy_remastered_61
+  - first:
+      213: -8892848747648481651
+    second: Bendy_remastered_62
+  - first:
+      213: -9069524783573669620
+    second: Bendy_remastered_63
+  - first:
+      213: 1865950974698040991
+    second: Bendy_remastered_64
+  - first:
+      213: -5640047526314934738
+    second: Bendy_remastered_65
+  - first:
+      213: 1758806760568359529
+    second: Bendy_remastered_66
+  - first:
+      213: -3727311120241277842
+    second: Bendy_remastered_67
+  - first:
+      213: 3104723511086847342
+    second: Bendy_remastered_68
+  - first:
+      213: -9103052310328214303
+    second: Bendy_remastered_69
+  - first:
+      213: -4925971252245049677
+    second: Bendy_remastered_70
+  - first:
+      213: -1237216939171136056
+    second: Bendy_remastered_71
+  - first:
+      213: -6460859743014420418
+    second: Bendy_remastered_72
+  - first:
+      213: 2711685031006120527
+    second: Bendy_remastered_73
+  - first:
+      213: 1032016859107503802
+    second: Bendy_remastered_74
+  - first:
+      213: -2596990368253827835
+    second: Bendy_remastered_75
+  - first:
+      213: 3195857969886163523
+    second: Bendy_remastered_76
+  - first:
+      213: -4848123026303803585
+    second: Bendy_remastered_77
+  - first:
+      213: 3498451254506963214
+    second: Bendy_remastered_78
+  - first:
+      213: 3159661239231258106
+    second: Bendy_remastered_79
+  - first:
+      213: 4483496266381454141
+    second: Bendy_remastered_80
+  - first:
+      213: -7229875908339134492
+    second: Bendy_remastered_81
+  - first:
+      213: 157262555242486843
+    second: Bendy_remastered_82
+  - first:
+      213: -2016017167993298963
+    second: Bendy_remastered_83
+  - first:
+      213: 1555029562891591802
+    second: Bendy_remastered_84
+  - first:
+      213: -9151104962667634882
+    second: Bendy_remastered_85
+  - first:
+      213: 6700920073603241840
+    second: Bendy_remastered_86
+  - first:
+      213: 37544660575223573
+    second: Bendy_remastered_87
+  - first:
+      213: 1887207197263914159
+    second: Bendy_remastered_88
+  - first:
+      213: -7040830277229581526
+    second: Bendy_remastered_89
+  - first:
+      213: -8112169421555683423
+    second: Bendy_remastered_90
+  - first:
+      213: 3240958836769378155
+    second: Bendy_remastered_91
+  - first:
+      213: 1887859899966624912
+    second: Bendy_remastered_92
+  - first:
+      213: -2448477369233198174
+    second: Bendy_remastered_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bendy_remastered_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3667
+        width: 624
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b783540fc8fbea80800000000000000
+      internalID: -8436375908933990477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3656
+        width: 616
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc0cf965171501b0800000000000000
+      internalID: -5691117173372875595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_2
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3652
+        width: 616
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4768987c1447ed80800000000000000
+      internalID: -8221527705668524213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_3
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 3652
+        width: 616
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb002a635933ed9c0800000000000000
+      internalID: -3900623511296540484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_4
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 3649
+        width: 616
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53966f0015e824280800000000000000
+      internalID: -9060523021756372683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_5
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 3649
+        width: 616
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61a449b7da93c730800000000000000
+      internalID: 4018225543861543276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_6
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 3646
+        width: 616
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44448e476736c20800000000000000
+      internalID: 3198530404848256201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_7
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 3646
+        width: 616
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c53207a8274a420800000000000000
+      internalID: 2640361220458372164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_8
+      rect:
+        serializedVersion: 2
+        x: 5011
+        y: 3646
+        width: 616
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc129d75a045d60c0800000000000000
+      internalID: -4580912842565672501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_9
+      rect:
+        serializedVersion: 2
+        x: 5636
+        y: 3645
+        width: 617
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec6b8d712a92dd70800000000000000
+      internalID: 9066478468481117411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_10
+      rect:
+        serializedVersion: 2
+        x: 6261
+        y: 3645
+        width: 616
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54fb26746e4c7120800000000000000
+      internalID: 2412889693750031452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_11
+      rect:
+        serializedVersion: 2
+        x: 6886
+        y: 3645
+        width: 616
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069b964da7c9bc8a0800000000000000
+      internalID: -6283756803701753504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_12
+      rect:
+        serializedVersion: 2
+        x: 7511
+        y: 3645
+        width: 616
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6490ab8ef0f163640800000000000000
+      internalID: 5059265384586807622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3195
+        width: 616
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4c27dc888cdca00800000000000000
+      internalID: 778498800492922042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_14
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3195
+        width: 616
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470de81f374bdbec0800000000000000
+      internalID: -3549482521231175564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_15
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 3194
+        width: 613
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b2b20f0ecbdb000800000000000000
+      internalID: 53406444886371161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_16
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 3194
+        width: 613
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a105cbad22b1680800000000000000
+      internalID: -8783388325398439389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_17
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 3192
+        width: 606
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba462f721b882d960800000000000000
+      internalID: 7625307413552456875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_18
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 3192
+        width: 606
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5ef15071e2ce840800000000000000
+      internalID: 5254625541639628235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_19
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 3188
+        width: 592
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f618ade7828ee4c20800000000000000
+      internalID: 3192744446476845423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_20
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 3168
+        width: 565
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530f4c06ed54c6280800000000000000
+      internalID: -9048780729885593547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_21
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 3140
+        width: 499
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88484550655694140800000000000000
+      internalID: 4704402705896211592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_22
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 3108
+        width: 442
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c3379efd983f770800000000000000
+      internalID: 8643403704641469585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_23
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 3101
+        width: 424
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85927058096510aa0800000000000000
+      internalID: -6196576433577973416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_24
+      rect:
+        serializedVersion: 2
+        x: 6291
+        y: 3093
+        width: 419
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119686fc94e3bd480800000000000000
+      internalID: -8873430154070169327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_25
+      rect:
+        serializedVersion: 2
+        x: 6718
+        y: 3090
+        width: 419
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc98cf3d6c736adb0800000000000000
+      internalID: -4781072627307607605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_26
+      rect:
+        serializedVersion: 2
+        x: 7145
+        y: 3090
+        width: 420
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26519f51e837f0360800000000000000
+      internalID: 7138050988496721250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_27
+      rect:
+        serializedVersion: 2
+        x: 7572
+        y: 3089
+        width: 420
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adac3998f26b5f00800000000000000
+      internalID: 1106586953311890850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2532
+        width: 419
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4eb75eb16891070800000000000000
+      internalID: 8077634861038036204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2531
+        width: 421
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63684ab9871eda400800000000000000
+      internalID: 337173455246231094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_30
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2535
+        width: 582
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608a310e8a3eb43f0800000000000000
+      internalID: -915387784786368506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_31
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 2521
+        width: 572
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa7bd62ec270d4b0800000000000000
+      internalID: -5417704121985959181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_32
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2523
+        width: 572
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbb2aeec0d10adc0800000000000000
+      internalID: -3629869358280164431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_33
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 2524
+        width: 569
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c24a317932882330800000000000000
+      internalID: 3686339478227141313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_34
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 2525
+        width: 568
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3250bdd2524072760800000000000000
+      internalID: 7432914267727922467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_35
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 2525
+        width: 569
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e2f9116ccd764e0800000000000000
+      internalID: -1988377967203504521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_36
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 2541
+        width: 587
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c97dfc5ee90d2120800000000000000
+      internalID: 2390577896570583494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_37
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 2539
+        width: 531
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78940870b1490f20800000000000000
+      internalID: 3389312420756625530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_38
+      rect:
+        serializedVersion: 2
+        x: 5476
+        y: 2530
+        width: 420
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafe74225856aae80800000000000000
+      internalID: -8166603351802777684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_39
+      rect:
+        serializedVersion: 2
+        x: 5905
+        y: 2534
+        width: 439
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58726e07dbb838c10800000000000000
+      internalID: 2054639500770289541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_40
+      rect:
+        serializedVersion: 2
+        x: 6353
+        y: 2551
+        width: 537
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594023c5ad3582bb0800000000000000
+      internalID: -4960622792233843563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_41
+      rect:
+        serializedVersion: 2
+        x: 6898
+        y: 2691
+        width: 620
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25d695c08bc66b90800000000000000
+      internalID: -7248882796274985681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_42
+      rect:
+        serializedVersion: 2
+        x: 7527
+        y: 2682
+        width: 592
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebc4ddf30debaf20800000000000000
+      internalID: 3435099742199401447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2116
+        width: 593
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16b2e2423ac1c370800000000000000
+      internalID: 8341170302086198810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_44
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2115
+        width: 586
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e23bff429c61b40800000000000000
+      internalID: 5410733163078168214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_45
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2112
+        width: 593
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5315a274fd119c0800000000000000
+      internalID: -3958137100736318026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_46
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2116
+        width: 597
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd01ba952ef13e7d0800000000000000
+      internalID: -2890431478814273317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_47
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2112
+        width: 593
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013bb70ce42d74d0800000000000000
+      internalID: -3135309169419407102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_48
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 2114
+        width: 576
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac999df6763eae50800000000000000
+      internalID: 6822450370201623722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_49
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 1982
+        width: 525
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7798ab2ca27d3b2e0800000000000000
+      internalID: -2111107221651027593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_50
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 1966
+        width: 439
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9bc7f87ad036fe0800000000000000
+      internalID: -1197098062632404523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_51
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1858
+        width: 502
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5984a524803e17e0800000000000000
+      internalID: -1792942257521522342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_52
+      rect:
+        serializedVersion: 2
+        x: 5086
+        y: 1869
+        width: 522
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539d912e7f444e990800000000000000
+      internalID: -7357680059775592139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_53
+      rect:
+        serializedVersion: 2
+        x: 5617
+        y: 1870
+        width: 537
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839146bcece0d7290800000000000000
+      internalID: -7891134690744854216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_54
+      rect:
+        serializedVersion: 2
+        x: 6161
+        y: 1870
+        width: 537
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad4cea064bd84330800000000000000
+      internalID: 3695444588134944175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_55
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 1871
+        width: 541
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef7a202ce515fd0800000000000000
+      internalID: -2354996942776828254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_56
+      rect:
+        serializedVersion: 2
+        x: 7254
+        y: 1871
+        width: 541
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e6d4d8a462297c0800000000000000
+      internalID: -4066145411922039262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1209
+        width: 544
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebefb3ab83cfcf940800000000000000
+      internalID: 5331413379472686782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1209
+        width: 543
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f7e432000dba250800000000000000
+      internalID: 5957083631138537290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_59
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1209
+        width: 543
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5815b20882cdf00800000000000000
+      internalID: 1142832936392951218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_60
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1209
+        width: 544
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbee3b14d41687690800000000000000
+      internalID: -7604220986372395332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_61
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1209
+        width: 543
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d3776c110e9d660800000000000000
+      internalID: 7411201028763630933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_62
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 1209
+        width: 545
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86822b2e21469480800000000000000
+      internalID: -8892848747648481651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_63
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 1209
+        width: 545
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c096d710343922280800000000000000
+      internalID: -9069524783573669620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_64
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1209
+        width: 545
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eab27768035e910800000000000000
+      internalID: 1865950974698040991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_65
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 1216
+        width: 544
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e7da538a68ab1b0800000000000000
+      internalID: -5640047526314934738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_66
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 1216
+        width: 544
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a8b302e69886810800000000000000
+      internalID: 1758806760568359529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_67
+      rect:
+        serializedVersion: 2
+        x: 5529
+        y: 1216
+        width: 544
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c7a6c84ee54cc0800000000000000
+      internalID: -3727311120241277842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_68
+      rect:
+        serializedVersion: 2
+        x: 6082
+        y: 1240
+        width: 541
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6592247591361b20800000000000000
+      internalID: 3104723511086847342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_69
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 1240
+        width: 541
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec761f57267ba180800000000000000
+      internalID: -9103052310328214303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_70
+      rect:
+        serializedVersion: 2
+        x: 7180
+        y: 1297
+        width: 508
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bec528be3f63abb0800000000000000
+      internalID: -4925971252245049677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_71
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 1331
+        width: 455
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdbb96bfb584dee0800000000000000
+      internalID: -1237216939171136056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 888
+        width: 514
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30010a7b4a6656a0800000000000000
+      internalID: -6460859743014420418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_73
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 874
+        width: 500
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a2dd72b27d1a520800000000000000
+      internalID: 2711685031006120527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_74
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 874
+        width: 500
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe21519dd5725e00800000000000000
+      internalID: 1032016859107503802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_75
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 867
+        width: 494
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505ae1ff403a5fbd0800000000000000
+      internalID: -2596990368253827835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_76
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 867
+        width: 494
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3427aa724e7f95c20800000000000000
+      internalID: 3195857969886163523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_77
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 862
+        width: 489
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f15c54bc108bcb0800000000000000
+      internalID: -4848123026303803585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_78
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 862
+        width: 489
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0148e061eefc8030800000000000000
+      internalID: 3498451254506963214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_79
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 862
+        width: 489
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd13fe082f59db20800000000000000
+      internalID: 3159661239231258106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_80
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 859
+        width: 487
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3be4758914983e30800000000000000
+      internalID: 4483496266381454141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_81
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 859
+        width: 487
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef8a49ba225aab90800000000000000
+      internalID: -7229875908339134492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_82
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 859
+        width: 487
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cd2b5f575be2200800000000000000
+      internalID: 157262555242486843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_83
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 859
+        width: 487
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def9ba8211ba504e0800000000000000
+      internalID: -2016017167993298963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_84
+      rect:
+        serializedVersion: 2
+        x: 6027
+        y: 859
+        width: 487
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7062670623949510800000000000000
+      internalID: 1555029562891591802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_85
+      rect:
+        serializedVersion: 2
+        x: 6522
+        y: 858
+        width: 485
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f91e5658eb00180800000000000000
+      internalID: -9151104962667634882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_86
+      rect:
+        serializedVersion: 2
+        x: 7016
+        y: 858
+        width: 485
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077d76fcd437efc50800000000000000
+      internalID: 6700920073603241840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_87
+      rect:
+        serializedVersion: 2
+        x: 7510
+        y: 858
+        width: 485
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f7ccc7ba2658000800000000000000
+      internalID: 37544660575223573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 486
+        width: 459
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4e97272f4b03a10800000000000000
+      internalID: 1887207197263914159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_89
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 486
+        width: 458
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b6ae1ba22f94e90800000000000000
+      internalID: -7040830277229581526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_90
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 486
+        width: 458
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af236624e8cb6f80800000000000000
+      internalID: -8112169421555683423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_91
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 447
+        width: 430
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f4d4504e23afc20800000000000000
+      internalID: 3240958836769378155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_92
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 447
+        width: 431
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0941733a396033a10800000000000000
+      internalID: 1887859899966624912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bendy_remastered_93
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 336
+        width: 426
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b5462ec2450ed0800000000000000
+      internalID: -2448477369233198174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

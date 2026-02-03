@@ -1,0 +1,2242 @@
+fileFormatVersion: 2
+guid: f3b52394efcdcc33ab851961a57de049
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7963158343591695075
+    second: MysteryMan_0
+  - first:
+      213: -4655053439033442031
+    second: MysteryMan_1
+  - first:
+      213: 8647717649168054438
+    second: MysteryMan_2
+  - first:
+      213: 3467454244992539633
+    second: MysteryMan_3
+  - first:
+      213: -4792675669661509946
+    second: MysteryMan_4
+  - first:
+      213: -842709019227536827
+    second: MysteryMan_5
+  - first:
+      213: -5034065886996499085
+    second: MysteryMan_6
+  - first:
+      213: -1215439609385518770
+    second: MysteryMan_7
+  - first:
+      213: 6663320882669380939
+    second: MysteryMan_8
+  - first:
+      213: -1368451063881315786
+    second: MysteryMan_9
+  - first:
+      213: -5516220811939217247
+    second: MysteryMan_10
+  - first:
+      213: -1672917058430498651
+    second: MysteryMan_11
+  - first:
+      213: 8860495677342646187
+    second: MysteryMan_12
+  - first:
+      213: -4495204422372489560
+    second: MysteryMan_13
+  - first:
+      213: -3436573897182202370
+    second: MysteryMan_14
+  - first:
+      213: -6875747922840162899
+    second: MysteryMan_15
+  - first:
+      213: -3956629724014013411
+    second: MysteryMan_16
+  - first:
+      213: -3511269459978656057
+    second: MysteryMan_17
+  - first:
+      213: -71798223663884992
+    second: MysteryMan_18
+  - first:
+      213: -9159130213196741074
+    second: MysteryMan_19
+  - first:
+      213: -2022973801716866082
+    second: MysteryMan_20
+  - first:
+      213: -312417040545805349
+    second: MysteryMan_21
+  - first:
+      213: -8346497000745483957
+    second: MysteryMan_22
+  - first:
+      213: -6994242951247693282
+    second: MysteryMan_23
+  - first:
+      213: -682385698802026490
+    second: MysteryMan_24
+  - first:
+      213: -1276587477542351907
+    second: MysteryMan_25
+  - first:
+      213: 3922847334626112407
+    second: MysteryMan_26
+  - first:
+      213: 1620379955035707608
+    second: MysteryMan_27
+  - first:
+      213: 5994822330259773549
+    second: MysteryMan_28
+  - first:
+      213: 3031146413327919569
+    second: MysteryMan_29
+  - first:
+      213: 2518215936993687104
+    second: MysteryMan_30
+  - first:
+      213: -1499964478066085717
+    second: MysteryMan_31
+  - first:
+      213: 1330540718447261649
+    second: MysteryMan_32
+  - first:
+      213: -8990982063046427093
+    second: MysteryMan_33
+  - first:
+      213: -666595527381580808
+    second: MysteryMan_34
+  - first:
+      213: 2738552372233547986
+    second: MysteryMan_35
+  - first:
+      213: 599034752300657823
+    second: MysteryMan_36
+  - first:
+      213: -326756744558684805
+    second: MysteryMan_37
+  - first:
+      213: -7765700291521302208
+    second: MysteryMan_38
+  - first:
+      213: -3806548877123051405
+    second: MysteryMan_39
+  - first:
+      213: -4446442809555775962
+    second: MysteryMan_40
+  - first:
+      213: 2858043028895475441
+    second: MysteryMan_41
+  - first:
+      213: -8543680846972229663
+    second: MysteryMan_42
+  - first:
+      213: -1695461626012980114
+    second: MysteryMan_43
+  - first:
+      213: -3738397565788535954
+    second: MysteryMan_44
+  - first:
+      213: -1000013399423158659
+    second: MysteryMan_45
+  - first:
+      213: -4199768994290973060
+    second: MysteryMan_46
+  - first:
+      213: -7654071987910638907
+    second: MysteryMan_47
+  - first:
+      213: -9082373744106891718
+    second: MysteryMan_48
+  - first:
+      213: -6554291305936313905
+    second: MysteryMan_49
+  - first:
+      213: -1223753791744094380
+    second: MysteryMan_50
+  - first:
+      213: 8332533293163765553
+    second: MysteryMan_51
+  - first:
+      213: 7549669632788020159
+    second: MysteryMan_52
+  - first:
+      213: -3516813311488315875
+    second: MysteryMan_53
+  - first:
+      213: -3836802078111152939
+    second: MysteryMan_54
+  - first:
+      213: 5235521776013278098
+    second: MysteryMan_55
+  - first:
+      213: -4605389901533738800
+    second: MysteryMan_56
+  - first:
+      213: 6170376706580697249
+    second: MysteryMan_57
+  - first:
+      213: 4145995374601213351
+    second: MysteryMan_58
+  - first:
+      213: 2162332743052767325
+    second: MysteryMan_59
+  - first:
+      213: -9114010524529466329
+    second: MysteryMan_60
+  - first:
+      213: 2907251468166716329
+    second: MysteryMan_61
+  - first:
+      213: 650900632851164918
+    second: MysteryMan_62
+  - first:
+      213: 6064285616644854041
+    second: MysteryMan_63
+  - first:
+      213: -6812133847648836213
+    second: MysteryMan_64
+  - first:
+      213: -1596901620307991983
+    second: MysteryMan_65
+  - first:
+      213: -8675085428840554546
+    second: MysteryMan_66
+  - first:
+      213: -6975423730799817146
+    second: MysteryMan_67
+  - first:
+      213: 337982458575179703
+    second: MysteryMan_68
+  - first:
+      213: 3839068943410111530
+    second: MysteryMan_69
+  - first:
+      213: 6578698309329200684
+    second: MysteryMan_70
+  - first:
+      213: -4757786352434917681
+    second: MysteryMan_71
+  - first:
+      213: -7137069233082501702
+    second: MysteryMan_72
+  - first:
+      213: 5784560127633048221
+    second: MysteryMan_73
+  - first:
+      213: 7014686057084870022
+    second: MysteryMan_74
+  - first:
+      213: -7316306983915943375
+    second: MysteryMan_75
+  - first:
+      213: 6346649070845175878
+    second: MysteryMan_76
+  - first:
+      213: 2477071619624851677
+    second: MysteryMan_77
+  - first:
+      213: 1234003610254305413
+    second: MysteryMan_78
+  - first:
+      213: -1883456020407329330
+    second: MysteryMan_79
+  - first:
+      213: -2153724117833086784
+    second: MysteryMan_80
+  - first:
+      213: -4932020338606519996
+    second: MysteryMan_81
+  - first:
+      213: 5494942907078436774
+    second: MysteryMan_82
+  - first:
+      213: -4870681936113725952
+    second: MysteryMan_83
+  - first:
+      213: -4070161029734954219
+    second: MysteryMan_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MysteryMan_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 6829
+        width: 352
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e298f7a252d28e60800000000000000
+      internalID: 7963158343591695075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 7555
+        width: 601
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11183fb8f8de56fb0800000000000000
+      internalID: -4655053439033442031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_2
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 6818
+        width: 827
+        height: 1163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8b984626dd20870800000000000000
+      internalID: 8647717649168054438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_3
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 7828
+        width: 354
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb53b3b34fde1030800000000000000
+      internalID: 3467454244992539633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_4
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 7358
+        width: 362
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c61b220fdefc7db0800000000000000
+      internalID: -4792675669661509946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_5
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 7811
+        width: 365
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542cce3ac981e44f0800000000000000
+      internalID: -842709019227536827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_6
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 7553
+        width: 540
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37579a55fb7632ab0800000000000000
+      internalID: -5034065886996499085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_7
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 6834
+        width: 1182
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f2ac6d14e12fe0800000000000000
+      internalID: -1215439609385518770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_8
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 7821
+        width: 382
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4563fbf90fd87c50800000000000000
+      internalID: 6663320882669380939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_9
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 7716
+        width: 117
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a49dcf109420de0800000000000000
+      internalID: -1368451063881315786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_10
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 6834
+        width: 714
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a00fb1d5627273b0800000000000000
+      internalID: -5516220811939217247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_11
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 7796
+        width: 355
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80f818cca98c8e0800000000000000
+      internalID: -1672917058430498651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_12
+      rect:
+        serializedVersion: 2
+        x: 5831
+        y: 7680
+        width: 152
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf74e5afddc6fa70800000000000000
+      internalID: 8860495677342646187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_13
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 6832
+        width: 885
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a609bbf463dd91c0800000000000000
+      internalID: -4495204422372489560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_14
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 7757
+        width: 84
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5331e8f36de40d0800000000000000
+      internalID: -3436573897182202370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_15
+      rect:
+        serializedVersion: 2
+        x: 6761
+        y: 7807
+        width: 319
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad6bf581bf6490a0800000000000000
+      internalID: -6875747922840162899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_16
+      rect:
+        serializedVersion: 2
+        x: 7281
+        y: 7062
+        width: 827
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d149468aa3a3719c0800000000000000
+      internalID: -3956629724014013411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_17
+      rect:
+        serializedVersion: 2
+        x: 7510
+        y: 7801
+        width: 297
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c66b479707754fc0800000000000000
+      internalID: -3511269459978656057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7449
+        width: 381
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045920f55ebe00ff0800000000000000
+      internalID: -71798223663884992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_19
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 7450
+        width: 381
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e264cd6299b34e080800000000000000
+      internalID: -9159130213196741074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_20
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 7448
+        width: 361
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3aeb6ab04fce3e0800000000000000
+      internalID: -2022973801716866082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_21
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 7510
+        width: 522
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb0d7c5b521aabf0800000000000000
+      internalID: -312417040545805349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_22
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 7401
+        width: 380
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41c3bf03394b2c80800000000000000
+      internalID: -8346497000745483957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_23
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 6824
+        width: 366
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1af91ac7157fee90800000000000000
+      internalID: -6994242951247693282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_24
+      rect:
+        serializedVersion: 2
+        x: 7376
+        y: 6333
+        width: 478
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608391782dda786f0800000000000000
+      internalID: -682385698802026490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_25
+      rect:
+        serializedVersion: 2
+        x: 7788
+        y: 6584
+        width: 208
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb406ce376a84ee0800000000000000
+      internalID: -1276587477542351907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5978
+        width: 1204
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7933a70edd0c07630800000000000000
+      internalID: 3922847334626112407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_27
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 5988
+        width: 1184
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d81115ebfebc7610800000000000000
+      internalID: 1620379955035707608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_28
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 5985
+        width: 1115
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6896beb523e13350800000000000000
+      internalID: 5994822330259773549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_29
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 5990
+        width: 1104
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d92c9c6a9bc01a20800000000000000
+      internalID: 3031146413327919569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_30
+      rect:
+        serializedVersion: 2
+        x: 4918
+        y: 5985
+        width: 1110
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0467c387d0082f220800000000000000
+      internalID: 2518215936993687104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_31
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 5979
+        width: 779
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ba2d114e0f2be0800000000000000
+      internalID: -1499964478066085717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_32
+      rect:
+        serializedVersion: 2
+        x: 6811
+        y: 6021
+        width: 430
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7fd32ebb7077210800000000000000
+      internalID: 1330540718447261649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_33
+      rect:
+        serializedVersion: 2
+        x: 7716
+        y: 6352
+        width: 419
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e753e237d993380800000000000000
+      internalID: -8990982063046427093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5141
+        width: 780
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f38e8d46e6cfb6f0800000000000000
+      internalID: -666595527381580808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_35
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 5592
+        width: 354
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0b8c18fda410620800000000000000
+      internalID: 2738552372233547986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_36
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 5615
+        width: 326
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9caef2fee2305800800000000000000
+      internalID: 599034752300657823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_37
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 5612
+        width: 347
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75dd98d870277bf0800000000000000
+      internalID: -326756744558684805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_38
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 5627
+        width: 349
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b9b3bab0ba3490800000000000000
+      internalID: -7765700291521302208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_39
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 5631
+        width: 318
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3702be6d6fb6c2bc0800000000000000
+      internalID: -3806548877123051405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_40
+      rect:
+        serializedVersion: 2
+        x: 5577
+        y: 5562
+        width: 272
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e865ea2df0b42c0800000000000000
+      internalID: -4446442809555775962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_41
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 5579
+        width: 272
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a8120efec9a720800000000000000
+      internalID: 2858043028895475441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_42
+      rect:
+        serializedVersion: 2
+        x: 7368
+        y: 5604
+        width: 462
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e769e9398fbe6980800000000000000
+      internalID: -8543680846972229663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_43
+      rect:
+        serializedVersion: 2
+        x: 7778
+        y: 5885
+        width: 206
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca03352a28878e0800000000000000
+      internalID: -1695461626012980114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_44
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 5162
+        width: 426
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e634df5883b8e1cc0800000000000000
+      internalID: -3738397565788535954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_45
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 4877
+        width: 735
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7670cc8c1d3f12f0800000000000000
+      internalID: -1000013399423158659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_46
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 4851
+        width: 780
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76469cd95c67b5c0800000000000000
+      internalID: -4199768994290973060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_47
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 4833
+        width: 764
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2815b741647c590800000000000000
+      internalID: -7654071987910638907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_48
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 4836
+        width: 774
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369c21433de4f180800000000000000
+      internalID: -9082373744106891718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_49
+      rect:
+        serializedVersion: 2
+        x: 4633
+        y: 4835
+        width: 704
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc12c3b88ca7a05a0800000000000000
+      internalID: -6554291305936313905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_50
+      rect:
+        serializedVersion: 2
+        x: 5473
+        y: 5141
+        width: 726
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f4e8ef86a540fe0800000000000000
+      internalID: -1223753791744094380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_51
+      rect:
+        serializedVersion: 2
+        x: 6429
+        y: 5139
+        width: 862
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f542ae1ea13a370800000000000000
+      internalID: 8332533293163765553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_52
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 5637
+        width: 416
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb32e9f780d5c860800000000000000
+      internalID: 7549669632788020159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_53
+      rect:
+        serializedVersion: 2
+        x: 5930
+        y: 5178
+        width: 422
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eaf531de4c13fc0800000000000000
+      internalID: -3516813311488315875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_54
+      rect:
+        serializedVersion: 2
+        x: 7325
+        y: 4887
+        width: 447
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d444b496d0f0cac0800000000000000
+      internalID: -3836802078111152939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_55
+      rect:
+        serializedVersion: 2
+        x: 7717
+        y: 5146
+        width: 191
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf719f05f48a840800000000000000
+      internalID: 5235521776013278098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_56
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 5140
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d809e2f84e5610c0800000000000000
+      internalID: -4605389901533738800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_57
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 5142
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0561e2ce491a550800000000000000
+      internalID: 6170376706580697249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_58
+      rect:
+        serializedVersion: 2
+        x: 7638
+        y: 4919
+        width: 424
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a59487a3d8898930800000000000000
+      internalID: 4145995374601213351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4294
+        width: 899
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d503bdb5c26220e10800000000000000
+      internalID: 2162332743052767325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_60
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4717
+        width: 250
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ef3e47b7848180800000000000000
+      internalID: -9114010524529466329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_61
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 4867
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5fc89ec1a85820800000000000000
+      internalID: 2907251468166716329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_62
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 4867
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feab2d4da6780900800000000000000
+      internalID: 650900632851164918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_63
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 4299
+        width: 820
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91190ac63aba82450800000000000000
+      internalID: 6064285616644854041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_64
+      rect:
+        serializedVersion: 2
+        x: 5562
+        y: 4751
+        width: 264
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85e9789b507671a0800000000000000
+      internalID: -6812133847648836213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_65
+      rect:
+        serializedVersion: 2
+        x: 6456
+        y: 4286
+        width: 793
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152eb44ef6aa6d9e0800000000000000
+      internalID: -1596901620307991983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_66
+      rect:
+        serializedVersion: 2
+        x: 6518
+        y: 4635
+        width: 311
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf9ac9d3c7eb9780800000000000000
+      internalID: -8675085428840554546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_67
+      rect:
+        serializedVersion: 2
+        x: 7313
+        y: 4167
+        width: 447
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ec8dff211523f90800000000000000
+      internalID: -6975423730799817146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_68
+      rect:
+        serializedVersion: 2
+        x: 5321
+        y: 4837
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfcfaf5141c0b400800000000000000
+      internalID: 337982458575179703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_69
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 3993
+        width: 840
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24a1302ddc174530800000000000000
+      internalID: 3839068943410111530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_70
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 4459
+        width: 253
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26a704c14b3c4b50800000000000000
+      internalID: 6578698309329200684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_71
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3997
+        width: 830
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce4ae13582f8fdb0800000000000000
+      internalID: -4757786352434917681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_72
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 4458
+        width: 255
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab57fb8a85904fc90800000000000000
+      internalID: -7137069233082501702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_73
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 4129
+        width: 104
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92c475c9c2e64050800000000000000
+      internalID: 5784560127633048221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_74
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 4276
+        width: 275
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ddd63bdcb295160800000000000000
+      internalID: 7014686057084870022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_75
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 4398
+        width: 187
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a0bf3cf81477a90800000000000000
+      internalID: -7316306983915943375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_76
+      rect:
+        serializedVersion: 2
+        x: 7714
+        y: 4459
+        width: 180
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6482ac534b3d31850800000000000000
+      internalID: 6346649070845175878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_77
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 4116
+        width: 86
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8d0f29383506220800000000000000
+      internalID: 2477071619624851677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_78
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 4168
+        width: 394
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588e1c8debf002110800000000000000
+      internalID: 1234003610254305413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_79
+      rect:
+        serializedVersion: 2
+        x: 5413
+        y: 4293
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecddc897abe9cd5e0800000000000000
+      internalID: -1883456020407329330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_80
+      rect:
+        serializedVersion: 2
+        x: 6368
+        y: 4300
+        width: 82
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c80e54635f6c12e0800000000000000
+      internalID: -2153724117833086784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_81
+      rect:
+        serializedVersion: 2
+        x: 7619
+        y: 4191
+        width: 426
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4494b5c02a1fd8bb0800000000000000
+      internalID: -4932020338606519996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_82
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 4125
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a76675e575f14c40800000000000000
+      internalID: 5494942907078436774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_83
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 4002
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e8708c59cd76cb0800000000000000
+      internalID: -4870681936113725952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MysteryMan_84
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3997
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b820cab12e387c0800000000000000
+      internalID: -4070161029734954219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

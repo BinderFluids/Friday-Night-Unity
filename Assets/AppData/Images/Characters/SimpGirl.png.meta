@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: cafc324180eaa464181aba9748775a41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2965629598979640275
+    second: SimpGirl_0
+  - first:
+      213: 8375063594019415127
+    second: SimpGirl_1
+  - first:
+      213: 3022286781295162909
+    second: SimpGirl_2
+  - first:
+      213: 5500764118175157279
+    second: SimpGirl_3
+  - first:
+      213: 7904462809343967227
+    second: SimpGirl_4
+  - first:
+      213: 1005449517573216003
+    second: SimpGirl_5
+  - first:
+      213: -8729541766437385518
+    second: SimpGirl_6
+  - first:
+      213: 6876817108818032210
+    second: SimpGirl_7
+  - first:
+      213: -9019399126946402298
+    second: SimpGirl_8
+  - first:
+      213: 1622187404644033168
+    second: SimpGirl_9
+  - first:
+      213: -252651154316762368
+    second: SimpGirl_10
+  - first:
+      213: -7341095168324966260
+    second: SimpGirl_11
+  - first:
+      213: -8079926088107134372
+    second: SimpGirl_12
+  - first:
+      213: 3222775338978188678
+    second: SimpGirl_13
+  - first:
+      213: 4810789405791421731
+    second: SimpGirl_14
+  - first:
+      213: -3963968013849068522
+    second: SimpGirl_15
+  - first:
+      213: -1168000742187752595
+    second: SimpGirl_16
+  - first:
+      213: -7575613140654837085
+    second: SimpGirl_17
+  - first:
+      213: 8740597917949542976
+    second: SimpGirl_18
+  - first:
+      213: -6990394315384675464
+    second: SimpGirl_19
+  - first:
+      213: -4336371757925756085
+    second: SimpGirl_20
+  - first:
+      213: -7098490497735551530
+    second: SimpGirl_21
+  - first:
+      213: -7462059104907634602
+    second: SimpGirl_22
+  - first:
+      213: 4099780965485012936
+    second: SimpGirl_23
+  - first:
+      213: -3889835254724274309
+    second: SimpGirl_24
+  - first:
+      213: -2906492695646060953
+    second: SimpGirl_25
+  - first:
+      213: -8536763911659119245
+    second: SimpGirl_26
+  - first:
+      213: 4522746209865389045
+    second: SimpGirl_27
+  - first:
+      213: -3341008013055567237
+    second: SimpGirl_28
+  - first:
+      213: 5512052778373993196
+    second: SimpGirl_29
+  - first:
+      213: -1546938919267254754
+    second: SimpGirl_30
+  - first:
+      213: -6623419173460347106
+    second: SimpGirl_31
+  - first:
+      213: -3078116775392268657
+    second: SimpGirl_32
+  - first:
+      213: 7129018694173937452
+    second: SimpGirl_33
+  - first:
+      213: 6596401337253343433
+    second: SimpGirl_34
+  - first:
+      213: -1108571933458856794
+    second: SimpGirl_35
+  - first:
+      213: -8304139724740994775
+    second: SimpGirl_36
+  - first:
+      213: -2635360180905605095
+    second: SimpGirl_37
+  - first:
+      213: -8494496375217887759
+    second: SimpGirl_38
+  - first:
+      213: -5332722531540546672
+    second: SimpGirl_39
+  - first:
+      213: 5933059498773909985
+    second: SimpGirl_40
+  - first:
+      213: 1031607180878389379
+    second: SimpGirl_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SimpGirl_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2517
+        width: 358
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc09e5868082920800000000000000
+      internalID: 2965629598979640275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2512
+        width: 356
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75465dc37f33a3470800000000000000
+      internalID: 8375063594019415127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2511
+        width: 355
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16f47890d151f920800000000000000
+      internalID: 3022286781295162909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_3
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2510
+        width: 354
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c8b0932d3a65c40800000000000000
+      internalID: 5500764118175157279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_4
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2510
+        width: 354
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffbb33ab0b42bd60800000000000000
+      internalID: 7904462809343967227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_5
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2510
+        width: 353
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3071a86520314fd00800000000000000
+      internalID: 1005449517573216003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_6
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2510
+        width: 353
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da4097b3007ad680800000000000000
+      internalID: -8729541766437385518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_7
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2338
+        width: 490
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2567d6cb9bc5f6f50800000000000000
+      internalID: 6876817108818032210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_8
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2366
+        width: 494
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60034e6e748a4d280800000000000000
+      internalID: -9019399126946402298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_9
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 2365
+        width: 494
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092abec89da238610800000000000000
+      internalID: 1622187404644033168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1629
+        width: 494
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036bde1d176e7cf0800000000000000
+      internalID: -252651154316762368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1630
+        width: 494
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8867a5d6d03f1a90800000000000000
+      internalID: -7341095168324966260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_12
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1630
+        width: 494
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5276fa38065edf80800000000000000
+      internalID: -8079926088107134372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_13
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1616
+        width: 361
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1fa6881999bc20800000000000000
+      internalID: 3222775338978188678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_14
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1613
+        width: 359
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3250965d97b53c240800000000000000
+      internalID: 4810789405791421731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_15
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1610
+        width: 358
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf389e7182df8c0800000000000000
+      internalID: -3963968013849068522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_16
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1609
+        width: 358
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63a188638d6acfe0800000000000000
+      internalID: -1168000742187752595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_17
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 1608
+        width: 358
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2bc736cf30ed690800000000000000
+      internalID: -7575613140654837085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_18
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1607
+        width: 357
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042c6e72f77dc4970800000000000000
+      internalID: 8740597917949542976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_19
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 1607
+        width: 358
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873269728612dfe90800000000000000
+      internalID: -6990394315384675464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_20
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1607
+        width: 358
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b439cca7cdc12d3c0800000000000000
+      internalID: -4336371757925756085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 981
+        width: 491
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d59cf070881d7d90800000000000000
+      internalID: -7098490497735551530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 970
+        width: 485
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d20f97c0717890800000000000000
+      internalID: -7462059104907634602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_23
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 965
+        width: 483
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c764a8011955e830800000000000000
+      internalID: 4099780965485012936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_24
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 966
+        width: 482
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b775e5fe177840ac0800000000000000
+      internalID: -3889835254724274309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_25
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 966
+        width: 482
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ebfb5ea401aa7d0800000000000000
+      internalID: -2906492695646060953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_26
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 966
+        width: 482
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d1f2ab372578980800000000000000
+      internalID: -8536763911659119245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_27
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 966
+        width: 481
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3554027b504ce30800000000000000
+      internalID: 4522746209865389045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_28
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 912
+        width: 343
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ad61ed9ea52a1d0800000000000000
+      internalID: -3341008013055567237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_29
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 914
+        width: 346
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2df2e3ccebe7c40800000000000000
+      internalID: 5512052778373993196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 222
+        width: 330
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e39dbbf3b288ae0800000000000000
+      internalID: -1546938919267254754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 221
+        width: 330
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e177267aa53e414a0800000000000000
+      internalID: -6623419173460347106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_32
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 222
+        width: 329
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ea291f9155845d0800000000000000
+      internalID: -3078116775392268657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_33
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 224
+        width: 329
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f4b5f2bbc5fe260800000000000000
+      internalID: 7129018694173937452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_34
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 224
+        width: 329
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0b5e621102b8b50800000000000000
+      internalID: 6596401337253343433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_35
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 135
+        width: 383
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4873233bf8d90f0800000000000000
+      internalID: -1108571933458856794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_36
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 141
+        width: 388
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9295a95eae4c1cc80800000000000000
+      internalID: -8304139724740994775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_37
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 144
+        width: 390
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91889e1d0e15d6bd0800000000000000
+      internalID: -2635360180905605095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_38
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 145
+        width: 387
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f56b417d8c7d1a80800000000000000
+      internalID: -8494496375217887759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_39
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 144
+        width: 387
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bcdcd8c1d5ef5b0800000000000000
+      internalID: -5332722531540546672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_40
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 143
+        width: 387
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e11dafed26765250800000000000000
+      internalID: 5933059498773909985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpGirl_41
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 143
+        width: 388
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380affbe341015e00800000000000000
+      internalID: 1031607180878389379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

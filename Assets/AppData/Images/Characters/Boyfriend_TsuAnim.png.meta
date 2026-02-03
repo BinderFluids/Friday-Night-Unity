@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: 01f3d48ba8eb2175bad791585899e840
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3650740661890036385
+    second: Boyfriend_TsuAnim_0
+  - first:
+      213: 1938746949842927184
+    second: Boyfriend_TsuAnim_1
+  - first:
+      213: -7546000231240950524
+    second: Boyfriend_TsuAnim_2
+  - first:
+      213: 769982302611186988
+    second: Boyfriend_TsuAnim_3
+  - first:
+      213: 9091524655777229163
+    second: Boyfriend_TsuAnim_4
+  - first:
+      213: -2810565622950560767
+    second: Boyfriend_TsuAnim_5
+  - first:
+      213: -8523304376781885440
+    second: Boyfriend_TsuAnim_6
+  - first:
+      213: -1028938147067570676
+    second: Boyfriend_TsuAnim_7
+  - first:
+      213: 8512958068114970938
+    second: Boyfriend_TsuAnim_8
+  - first:
+      213: 4834268918962068881
+    second: Boyfriend_TsuAnim_9
+  - first:
+      213: -2741224074904779821
+    second: Boyfriend_TsuAnim_10
+  - first:
+      213: 3163028525113694947
+    second: Boyfriend_TsuAnim_11
+  - first:
+      213: -9051420412052370946
+    second: Boyfriend_TsuAnim_12
+  - first:
+      213: 9141596896977030198
+    second: Boyfriend_TsuAnim_13
+  - first:
+      213: -7830003974323231739
+    second: Boyfriend_TsuAnim_14
+  - first:
+      213: -8958175471704023793
+    second: Boyfriend_TsuAnim_15
+  - first:
+      213: 2446215095831496419
+    second: Boyfriend_TsuAnim_16
+  - first:
+      213: -111490997438182635
+    second: Boyfriend_TsuAnim_17
+  - first:
+      213: 846432693338446309
+    second: Boyfriend_TsuAnim_18
+  - first:
+      213: 3709653992593992918
+    second: Boyfriend_TsuAnim_19
+  - first:
+      213: 5269456068518180819
+    second: Boyfriend_TsuAnim_20
+  - first:
+      213: -5381230765629272049
+    second: Boyfriend_TsuAnim_21
+  - first:
+      213: -3082401941414196257
+    second: Boyfriend_TsuAnim_22
+  - first:
+      213: 1071370047796416268
+    second: Boyfriend_TsuAnim_23
+  - first:
+      213: 6792980551446657241
+    second: Boyfriend_TsuAnim_24
+  - first:
+      213: -2339454819784679224
+    second: Boyfriend_TsuAnim_25
+  - first:
+      213: -723525291371455077
+    second: Boyfriend_TsuAnim_26
+  - first:
+      213: 3822740049775077662
+    second: Boyfriend_TsuAnim_27
+  - first:
+      213: 8881318078132697702
+    second: Boyfriend_TsuAnim_28
+  - first:
+      213: -542265561459837631
+    second: Boyfriend_TsuAnim_29
+  - first:
+      213: -4362683842116554139
+    second: Boyfriend_TsuAnim_30
+  - first:
+      213: -3409858935915582693
+    second: Boyfriend_TsuAnim_31
+  - first:
+      213: 6143709257596420039
+    second: Boyfriend_TsuAnim_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3655
+        width: 410
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d48f0e5b6f55dc0800000000000000
+      internalID: -3650740661890036385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3658
+        width: 397
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e72c63410d7ea10800000000000000
+      internalID: 1938746949842927184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3658
+        width: 401
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d1ed525c8374790800000000000000
+      internalID: -7546000231240950524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_3
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 3644
+        width: 371
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c252a7e13d68faa00800000000000000
+      internalID: 769982302611186988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_4
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 3681
+        width: 399
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ae4661859b2e70800000000000000
+      internalID: 9091524655777229163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_5
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 3681
+        width: 402
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7b1af47ddef8d0800000000000000
+      internalID: -2810565622950560767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3208
+        width: 361
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0003265e3d327b980800000000000000
+      internalID: -8523304376781885440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3208
+        width: 358
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c065030f43a78b1f0800000000000000
+      internalID: -1028938147067570676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_8
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3191
+        width: 371
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39d9c5624a142670800000000000000
+      internalID: 8512958068114970938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_9
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 3229
+        width: 407
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d127ff7f5c61340800000000000000
+      internalID: 4834268918962068881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_10
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 3264
+        width: 403
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d34d8d3a3735f9d0800000000000000
+      internalID: -2741224074904779821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_11
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 3267
+        width: 385
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea54d56fa555eb20800000000000000
+      internalID: 3163028525113694947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2749
+        width: 378
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef906ea7715e26280800000000000000
+      internalID: -9051420412052370946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2749
+        width: 378
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c012c81f97dde70800000000000000
+      internalID: 9141596896977030198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2738
+        width: 378
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5042198dedc365390800000000000000
+      internalID: -7830003974323231739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_15
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2776
+        width: 410
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dd675feda2ea380800000000000000
+      internalID: -8958175471704023793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_16
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2793
+        width: 372
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e60c374ba3b2f120800000000000000
+      internalID: 2446215095831496419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_17
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2847
+        width: 404
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0b0e4787e37ef0800000000000000
+      internalID: -111490997438182635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2334
+        width: 410
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e917bccc022fbb00800000000000000
+      internalID: 846432693338446309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2299
+        width: 385
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcac24d6a65b7330800000000000000
+      internalID: 3709653992593992918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_20
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2361
+        width: 407
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d77d83206ed02940800000000000000
+      internalID: 5269456068518180819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_21
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2374
+        width: 403
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00934031270255b0800000000000000
+      internalID: -5381230765629272049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_22
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2447
+        width: 380
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb480bf3cb1935d0800000000000000
+      internalID: -3082401941414196257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1897
+        width: 371
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f06e1d1654ede00800000000000000
+      internalID: 1071370047796416268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1886
+        width: 376
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d87d1f12d3854e50800000000000000
+      internalID: 6792980551446657241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_25
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1886
+        width: 376
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0a8a28c36988fd0800000000000000
+      internalID: -2339454819784679224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_26
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1960
+        width: 376
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d1bc5b49585f5f0800000000000000
+      internalID: -723525291371455077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_27
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1974
+        width: 378
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19a08f42d91d0530800000000000000
+      internalID: 3822740049775077662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1496
+        width: 376
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aba50acb7c04b70800000000000000
+      internalID: 8881318078132697702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_29
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1514
+        width: 375
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145324b485c7978f0800000000000000
+      internalID: -542265561459837631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_30
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1514
+        width: 377
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5627e4bf822a473c0800000000000000
+      internalID: -4362683842116554139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_31
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1514
+        width: 377
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6f8e2d5fbda0d0800000000000000
+      internalID: -3409858935915582693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boyfriend_TsuAnim_32
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1601
+        width: 376
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf305ed407d24550800000000000000
+      internalID: 6143709257596420039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

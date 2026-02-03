@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: 61bc37e68d2bfa03fa36023aa89a6f8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1354126494880461169
+    second: angry_goyle_0
+  - first:
+      213: -3379952624934792
+    second: angry_goyle_1
+  - first:
+      213: 1858750727369736071
+    second: angry_goyle_2
+  - first:
+      213: 700722526452907026
+    second: angry_goyle_3
+  - first:
+      213: -2588832290762483
+    second: angry_goyle_4
+  - first:
+      213: -7689033040286574346
+    second: angry_goyle_5
+  - first:
+      213: -6532389681174368080
+    second: angry_goyle_6
+  - first:
+      213: -2951576680296167264
+    second: angry_goyle_7
+  - first:
+      213: 4777268860291365440
+    second: angry_goyle_8
+  - first:
+      213: 832717240380720623
+    second: angry_goyle_9
+  - first:
+      213: -7388816342272703797
+    second: angry_goyle_10
+  - first:
+      213: 8233562015761803973
+    second: angry_goyle_11
+  - first:
+      213: 2091518136590468762
+    second: angry_goyle_12
+  - first:
+      213: 107701397354054481
+    second: angry_goyle_13
+  - first:
+      213: -186321327352700563
+    second: angry_goyle_14
+  - first:
+      213: -2772651412103526838
+    second: angry_goyle_15
+  - first:
+      213: 6151764500077453423
+    second: angry_goyle_16
+  - first:
+      213: 7028917834654666113
+    second: angry_goyle_17
+  - first:
+      213: 6811855120896564711
+    second: angry_goyle_18
+  - first:
+      213: 2113498112437821501
+    second: angry_goyle_19
+  - first:
+      213: 3584185107505565255
+    second: angry_goyle_20
+  - first:
+      213: 3575984449563113570
+    second: angry_goyle_21
+  - first:
+      213: 804742064009700951
+    second: angry_goyle_22
+  - first:
+      213: 6400284106471645506
+    second: angry_goyle_23
+  - first:
+      213: 2074404678578633439
+    second: angry_goyle_24
+  - first:
+      213: -6154117492532909770
+    second: angry_goyle_25
+  - first:
+      213: -9123718276101350398
+    second: angry_goyle_26
+  - first:
+      213: -2781598225758713998
+    second: angry_goyle_27
+  - first:
+      213: -3526362777725094410
+    second: angry_goyle_28
+  - first:
+      213: 7114693423988910878
+    second: angry_goyle_29
+  - first:
+      213: -7092375968029184380
+    second: angry_goyle_30
+  - first:
+      213: 5739710666952231733
+    second: angry_goyle_31
+  - first:
+      213: 3480320555624661371
+    second: angry_goyle_32
+  - first:
+      213: 6447343647590238183
+    second: angry_goyle_33
+  - first:
+      213: 3776674737212996201
+    second: angry_goyle_34
+  - first:
+      213: -4285513821829324347
+    second: angry_goyle_35
+  - first:
+      213: -8640024393443747951
+    second: angry_goyle_36
+  - first:
+      213: -3869120549732396632
+    second: angry_goyle_37
+  - first:
+      213: 1725680731405933332
+    second: angry_goyle_38
+  - first:
+      213: -4025443119719697192
+    second: angry_goyle_39
+  - first:
+      213: -6704407798033250931
+    second: angry_goyle_40
+  - first:
+      213: -8504793311481800380
+    second: angry_goyle_41
+  - first:
+      213: 6347631365062582399
+    second: angry_goyle_42
+  - first:
+      213: -6209116486256950516
+    second: angry_goyle_43
+  - first:
+      213: -6169782225285758284
+    second: angry_goyle_44
+  - first:
+      213: -6932009285067429567
+    second: angry_goyle_45
+  - first:
+      213: 5505824348276523915
+    second: angry_goyle_46
+  - first:
+      213: -1586801363500709096
+    second: angry_goyle_47
+  - first:
+      213: -8028292465487280957
+    second: angry_goyle_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angry_goyle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3305
+        width: 570
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e84bb902d253de0800000000000000
+      internalID: -1354126494880461169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3301
+        width: 575
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870ee6473fdf3fff0800000000000000
+      internalID: -3379952624934792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_2
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 3289
+        width: 575
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3fde30fb9bc910800000000000000
+      internalID: 1858750727369736071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_3
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 3288
+        width: 576
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf65bdc6779b900800000000000000
+      internalID: 700722526452907026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_4
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 3288
+        width: 575
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d011de2887dc6fff0800000000000000
+      internalID: -2588832290762483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_5
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3286
+        width: 574
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f81a7720311b4590800000000000000
+      internalID: -7689033040286574346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_6
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 3270
+        width: 566
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0bc2fe13a4855a0800000000000000
+      internalID: -6532389681174368080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_7
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3269
+        width: 560
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ce9bb5a4e907d0800000000000000
+      internalID: -2951576680296167264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_8
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 3265
+        width: 560
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ab336a7b44c4240800000000000000
+      internalID: 4777268860291365440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_9
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 3260
+        width: 558
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe58c3f0be76e8b00800000000000000
+      internalID: 832717240380720623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_10
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 3250
+        width: 554
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc20c303fa6a57990800000000000000
+      internalID: -7388816342272703797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_11
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 3247
+        width: 551
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caa1a1b70d734270800000000000000
+      internalID: 8233562015761803973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_12
+      rect:
+        serializedVersion: 2
+        x: 6892
+        y: 3247
+        width: 550
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9603c4f9a0960d10800000000000000
+      internalID: 2091518136590468762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_13
+      rect:
+        serializedVersion: 2
+        x: 7450
+        y: 3250
+        width: 550
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530a1ba9d1ae7100800000000000000
+      internalID: 107701397354054481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2411
+        width: 543
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61201d6dbd0a6df0800000000000000
+      internalID: -186321327352700563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2407
+        width: 544
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4685971b309589d0800000000000000
+      internalID: -2772651412103526838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_16
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2402
+        width: 545
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60a9f828357f5550800000000000000
+      internalID: 6151764500077453423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_17
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2392
+        width: 546
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dcff1a78bbb8160800000000000000
+      internalID: 7028917834654666113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_18
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 2389
+        width: 547
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed17764422988e50800000000000000
+      internalID: 6811855120896564711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_19
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 2389
+        width: 550
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30a051e557a45d10800000000000000
+      internalID: 2113498112437821501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_20
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 2392
+        width: 554
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e4d1e8d559db130800000000000000
+      internalID: 3584185107505565255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_21
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 2394
+        width: 578
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b78619e270a130800000000000000
+      internalID: 3575984449563113570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_22
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 2394
+        width: 583
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ec1db4a40b2b00800000000000000
+      internalID: 804742064009700951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_23
+      rect:
+        serializedVersion: 2
+        x: 5064
+        y: 2394
+        width: 587
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24122d31c7062d850800000000000000
+      internalID: 6400284106471645506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_24
+      rect:
+        serializedVersion: 2
+        x: 5659
+        y: 2394
+        width: 584
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda76138014c9cc10800000000000000
+      internalID: 2074404678578633439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_25
+      rect:
+        serializedVersion: 2
+        x: 6251
+        y: 2394
+        width: 582
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639ee871fbe289aa0800000000000000
+      internalID: -6154117492532909770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_26
+      rect:
+        serializedVersion: 2
+        x: 6841
+        y: 2394
+        width: 582
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c5d32419a026180800000000000000
+      internalID: -9123718276101350398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_27
+      rect:
+        serializedVersion: 2
+        x: 7431
+        y: 2393
+        width: 571
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2778bc5b627c569d0800000000000000
+      internalID: -2781598225758713998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1521
+        width: 531
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f53984bcb7df0fc0800000000000000
+      internalID: -3526362777725094410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_29
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1522
+        width: 527
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1baaae49f77cb260800000000000000
+      internalID: 7114693423988910878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_30
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1522
+        width: 524
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e6a1452a1d29d90800000000000000
+      internalID: -7092375968029184380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_31
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1524
+        width: 522
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b4539f07c87af40800000000000000
+      internalID: 5739710666952231733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_32
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1524
+        width: 524
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b718f761b159c4030800000000000000
+      internalID: 3480320555624661371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_33
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 1524
+        width: 526
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7cc7353e0997950800000000000000
+      internalID: 6447343647590238183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_34
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 1529
+        width: 545
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ab5cfe9a1796430800000000000000
+      internalID: 3776674737212996201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_35
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 1501
+        width: 537
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c126d972ebc684c0800000000000000
+      internalID: -4285513821829324347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_36
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 1502
+        width: 536
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197531a4797781880800000000000000
+      internalID: -8640024393443747951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_37
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 1504
+        width: 534
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a159080c5f1e4ac0800000000000000
+      internalID: -3869120549732396632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_38
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 1502
+        width: 532
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bdf2f6b79d2f710800000000000000
+      internalID: 1725680731405933332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_39
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 1502
+        width: 533
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d431917fc0c228c0800000000000000
+      internalID: -4025443119719697192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_40
+      rect:
+        serializedVersion: 2
+        x: 6469
+        y: 1504
+        width: 533
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d858ed011a825f2a0800000000000000
+      internalID: -6704407798033250931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_41
+      rect:
+        serializedVersion: 2
+        x: 7010
+        y: 1515
+        width: 547
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44952052b87e8f980800000000000000
+      internalID: -8504793311481800380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_42
+      rect:
+        serializedVersion: 2
+        x: 7565
+        y: 1589
+        width: 571
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70eea76811571850800000000000000
+      internalID: 6347631365062582399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 575
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0302abf379c4d9a0800000000000000
+      internalID: -6209116486256950516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_44
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 648
+        width: 584
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c25841c7806aa0800000000000000
+      internalID: -6169782225285758284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_45
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 633
+        width: 532
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a8d7584e8ccf90800000000000000
+      internalID: -6932009285067429567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_46
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 636
+        width: 522
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8308bad21e986c40800000000000000
+      internalID: 5505824348276523915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_47
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 613
+        width: 537
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b4f6f219c8af9e0800000000000000
+      internalID: -1586801363500709096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry_goyle_48
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 614
+        width: 532
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c48fa1d986c59090800000000000000
+      internalID: -8028292465487280957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

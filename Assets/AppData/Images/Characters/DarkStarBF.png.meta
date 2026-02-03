@@ -1,0 +1,2317 @@
+fileFormatVersion: 2
+guid: f47981f1de273dc9593855c92a493bde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1868656679769480689
+    second: DarkStarBF_0
+  - first:
+      213: 1636404436503375388
+    second: DarkStarBF_1
+  - first:
+      213: 1443305684290750904
+    second: DarkStarBF_2
+  - first:
+      213: -4257834498204478522
+    second: DarkStarBF_3
+  - first:
+      213: -3524921919908823102
+    second: DarkStarBF_4
+  - first:
+      213: -6819823633336810124
+    second: DarkStarBF_5
+  - first:
+      213: -4981782157798812799
+    second: DarkStarBF_6
+  - first:
+      213: 2851476001599223275
+    second: DarkStarBF_7
+  - first:
+      213: 8003097130966876476
+    second: DarkStarBF_8
+  - first:
+      213: 5189245193880920087
+    second: DarkStarBF_9
+  - first:
+      213: -4960270977074120011
+    second: DarkStarBF_10
+  - first:
+      213: 1023863338192860226
+    second: DarkStarBF_11
+  - first:
+      213: 7300873540017226088
+    second: DarkStarBF_12
+  - first:
+      213: -7868648972247397460
+    second: DarkStarBF_13
+  - first:
+      213: -1320975725302929889
+    second: DarkStarBF_14
+  - first:
+      213: -8812083484725003398
+    second: DarkStarBF_15
+  - first:
+      213: -3620064185597795082
+    second: DarkStarBF_16
+  - first:
+      213: 445298988413425648
+    second: DarkStarBF_17
+  - first:
+      213: 6569251004733883678
+    second: DarkStarBF_18
+  - first:
+      213: 1686129592291792394
+    second: DarkStarBF_19
+  - first:
+      213: 8161391721605191646
+    second: DarkStarBF_20
+  - first:
+      213: -2695066653062481468
+    second: DarkStarBF_21
+  - first:
+      213: -5080360816017386156
+    second: DarkStarBF_22
+  - first:
+      213: -8651326586890446371
+    second: DarkStarBF_23
+  - first:
+      213: 3932484712640925693
+    second: DarkStarBF_24
+  - first:
+      213: 3350107707322985002
+    second: DarkStarBF_25
+  - first:
+      213: -6839747037826528764
+    second: DarkStarBF_26
+  - first:
+      213: -826305517717386259
+    second: DarkStarBF_27
+  - first:
+      213: -6157059540606599188
+    second: DarkStarBF_28
+  - first:
+      213: 903211272851411500
+    second: DarkStarBF_29
+  - first:
+      213: 7949082248212101052
+    second: DarkStarBF_30
+  - first:
+      213: 1763557044988591424
+    second: DarkStarBF_31
+  - first:
+      213: -8899042897681298401
+    second: DarkStarBF_32
+  - first:
+      213: 2643836106659025294
+    second: DarkStarBF_33
+  - first:
+      213: -7305130646675162465
+    second: DarkStarBF_34
+  - first:
+      213: 8655573279359661291
+    second: DarkStarBF_35
+  - first:
+      213: -562694827092206388
+    second: DarkStarBF_36
+  - first:
+      213: 3815686145825874583
+    second: DarkStarBF_37
+  - first:
+      213: 8033753011589296619
+    second: DarkStarBF_38
+  - first:
+      213: -6611577243820334870
+    second: DarkStarBF_39
+  - first:
+      213: -8973197684235834410
+    second: DarkStarBF_40
+  - first:
+      213: 1751288786876977500
+    second: DarkStarBF_41
+  - first:
+      213: 6876233321872473913
+    second: DarkStarBF_42
+  - first:
+      213: 582894668858239681
+    second: DarkStarBF_43
+  - first:
+      213: 3216145726601732531
+    second: DarkStarBF_44
+  - first:
+      213: -8976274795090606567
+    second: DarkStarBF_45
+  - first:
+      213: -78392841637954161
+    second: DarkStarBF_46
+  - first:
+      213: -8820680880948796593
+    second: DarkStarBF_47
+  - first:
+      213: 151531725669705643
+    second: DarkStarBF_48
+  - first:
+      213: -9099698821586974868
+    second: DarkStarBF_49
+  - first:
+      213: -5151618437881583805
+    second: DarkStarBF_50
+  - first:
+      213: 1778080770400075880
+    second: DarkStarBF_51
+  - first:
+      213: 8497467443847340695
+    second: DarkStarBF_52
+  - first:
+      213: 3391315903886187252
+    second: DarkStarBF_53
+  - first:
+      213: 482112320354166262
+    second: DarkStarBF_54
+  - first:
+      213: -54927498199183119
+    second: DarkStarBF_55
+  - first:
+      213: -7101900348152143606
+    second: DarkStarBF_56
+  - first:
+      213: 869582692937522769
+    second: DarkStarBF_57
+  - first:
+      213: 631989501601217051
+    second: DarkStarBF_58
+  - first:
+      213: -6142618575703990947
+    second: DarkStarBF_59
+  - first:
+      213: 8918355404505081914
+    second: DarkStarBF_60
+  - first:
+      213: 2439255711954502593
+    second: DarkStarBF_61
+  - first:
+      213: 6925389136473521026
+    second: DarkStarBF_62
+  - first:
+      213: 1643599862888931954
+    second: DarkStarBF_63
+  - first:
+      213: 7446977218364383803
+    second: DarkStarBF_64
+  - first:
+      213: 2846706089551134345
+    second: DarkStarBF_65
+  - first:
+      213: 5275397436802062339
+    second: DarkStarBF_66
+  - first:
+      213: 1943702093797021155
+    second: DarkStarBF_67
+  - first:
+      213: -1369634631776302813
+    second: DarkStarBF_68
+  - first:
+      213: -5766179068932150271
+    second: DarkStarBF_69
+  - first:
+      213: -3440526720034252057
+    second: DarkStarBF_70
+  - first:
+      213: -518524593956023245
+    second: DarkStarBF_71
+  - first:
+      213: -1726168879654628584
+    second: DarkStarBF_72
+  - first:
+      213: 7385429124201478373
+    second: DarkStarBF_73
+  - first:
+      213: -4631436051871510120
+    second: DarkStarBF_74
+  - first:
+      213: 3728665948854391706
+    second: DarkStarBF_75
+  - first:
+      213: -1567848436760564996
+    second: DarkStarBF_76
+  - first:
+      213: 243637383450518349
+    second: DarkStarBF_77
+  - first:
+      213: -8749940891537938862
+    second: DarkStarBF_78
+  - first:
+      213: 6809250063701110163
+    second: DarkStarBF_79
+  - first:
+      213: -2263401406052246284
+    second: DarkStarBF_80
+  - first:
+      213: 3251330023089549309
+    second: DarkStarBF_81
+  - first:
+      213: -6308223242329632442
+    second: DarkStarBF_82
+  - first:
+      213: 3125203422584871685
+    second: DarkStarBF_83
+  - first:
+      213: 562611183218102553
+    second: DarkStarBF_84
+  - first:
+      213: 958546148110178020
+    second: DarkStarBF_85
+  - first:
+      213: 1568516344069047322
+    second: DarkStarBF_86
+  - first:
+      213: -6136698260829546692
+    second: DarkStarBF_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkStarBF_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3474
+        width: 535
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02ed2b76a23116e0800000000000000
+      internalID: -1868656679769480689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3960
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e28aa3a2da5b610800000000000000
+      internalID: 1636404436503375388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3474
+        width: 537
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c3767fd6a70410800000000000000
+      internalID: 1443305684290750904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_3
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3961
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c35e16351229e4c0800000000000000
+      internalID: -4257834498204478522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3474
+        width: 531
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfb8de8036f41fc0800000000000000
+      internalID: -3524921919908823102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_5
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3954
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4754528d98e1b51a0800000000000000
+      internalID: -6819823633336810124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_6
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 3457
+        width: 479
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d508a5872ddab0800000000000000
+      internalID: -4981782157798812799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_7
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 3456
+        width: 503
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be57fd0d05a729720800000000000000
+      internalID: 2851476001599223275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_8
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 3457
+        width: 486
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c318a3a3076b01f60800000000000000
+      internalID: 8003097130966876476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_9
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 3968
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710eca19207e30840800000000000000
+      internalID: 5189245193880920087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_10
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 3457
+        width: 498
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba31d5b3d3992bb0800000000000000
+      internalID: -4960270977074120011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2851
+        width: 535
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f78b084e753e00800000000000000
+      internalID: 1023863338192860226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3354
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86186ce8dc9e15560800000000000000
+      internalID: 7300873540017226088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2851
+        width: 531
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab83fa1371fcc290800000000000000
+      internalID: -7868648972247397460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3329
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16a760a393faade0800000000000000
+      internalID: -1320975725302929889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_15
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2851
+        width: 531
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b31e152c035b580800000000000000
+      internalID: -8812083484725003398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_16
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3332
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f464599dc2f2cdc0800000000000000
+      internalID: -3620064185597795082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2884
+        width: 516
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7193712150e2600800000000000000
+      internalID: 445298988413425648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_18
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 3312
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e158a81cbfaaa2b50800000000000000
+      internalID: 6569251004733883678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_19
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2884
+        width: 503
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0693d14ee5566710800000000000000
+      internalID: 1686129592291792394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_20
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 3314
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75717a786134170800000000000000
+      internalID: 8161391721605191646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_21
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 2884
+        width: 501
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b53a7823399ad0800000000000000
+      internalID: -2695066653062481468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_22
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 3334
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455587631ceee79b0800000000000000
+      internalID: -5080360816017386156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_23
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2884
+        width: 517
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd990805e4050f780800000000000000
+      internalID: -8651326586890446371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_24
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 3334
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffcd9dc20ef29630800000000000000
+      internalID: 3932484712640925693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2228
+        width: 532
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ae84ec539fd7e20800000000000000
+      internalID: 3350107707322985002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2708
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ac1d0ce465411a0800000000000000
+      internalID: -6839747037826528764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_27
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2228
+        width: 531
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb8284728f5884f0800000000000000
+      internalID: -826305517717386259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_28
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2709
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefb63528fabd8aa0800000000000000
+      internalID: -6157059540606599188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_29
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2211
+        width: 486
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22df630ed9d88c00800000000000000
+      internalID: 903211272851411500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_30
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2279
+        width: 504
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7bb0f4030d05e60800000000000000
+      internalID: 7949082248212101052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_31
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2729
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dbea7e9c9697810800000000000000
+      internalID: 1763557044988591424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_32
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 2311
+        width: 517
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c4eba32af308480800000000000000
+      internalID: -8899042897681298401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_33
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2761
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8153cd6eeac0b420800000000000000
+      internalID: 2643836106659025294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_34
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 2311
+        width: 517
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a7b1f8166fe9a90800000000000000
+      internalID: -7305130646675162465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_35
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 2761
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be47893d906ce1870800000000000000
+      internalID: 8655573279359661291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_36
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 2742
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc183a3908e038f0800000000000000
+      internalID: -562694827092206388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_37
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 2751
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792a450555a04f430800000000000000
+      internalID: 3815686145825874583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_38
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 2280
+        width: 380
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be13105accf9d7f60800000000000000
+      internalID: 8033753011589296619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2086
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae06801c685fe34a0800000000000000
+      internalID: -6611577243820334870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_40
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1588
+        width: 491
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbe3cb8f3cc87380800000000000000
+      internalID: -8973197684235834410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_41
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2088
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c515de87fd3dd4810800000000000000
+      internalID: 1751288786876977500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_42
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1675
+        width: 385
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fb9ee36c94d6f50800000000000000
+      internalID: 6876233321872473913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_43
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2158
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caa3ceec9bd61800800000000000000
+      internalID: 582894668858239681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_44
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1675
+        width: 385
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1acfb9f7b02ac20800000000000000
+      internalID: 3216145726601732531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_45
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2158
+        width: 57
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9160558d1addd6380800000000000000
+      internalID: -8976274795090606567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_46
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1707
+        width: 385
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d7c39302e79eef0800000000000000
+      internalID: -78392841637954161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_47
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 2190
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43a7f50975a69580800000000000000
+      internalID: -8820680880948796593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_48
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 1674
+        width: 372
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7aeb83d495a1200800000000000000
+      internalID: 151531725669705643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_49
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 2157
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c678440522067b180800000000000000
+      internalID: -9099698821586974868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_50
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1670
+        width: 381
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34727bf3356c188b0800000000000000
+      internalID: -5151618437881583805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_51
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 2142
+        width: 57
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86046ad3a030da810800000000000000
+      internalID: 1778080770400075880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1605
+        width: 531
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792a7f06e911de570800000000000000
+      internalID: 8497467443847340695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_53
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1638
+        width: 517
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fad44cb8df501f20800000000000000
+      internalID: 3391315903886187252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_54
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1071
+        width: 385
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5ac8cd99ec0b600800000000000000
+      internalID: 482112320354166262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_55
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1554
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0df6d3bbbdc3ff0800000000000000
+      internalID: -54927498199183119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_56
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1534
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a012b26c24bf07d90800000000000000
+      internalID: -7101900348152143606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_57
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 1535
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e5e5b1ad0611c00800000000000000
+      internalID: 869582692937522769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_58
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 1537
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a77b07a1745c800800000000000000
+      internalID: 631989501601217051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_59
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 1537
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d927c43f801caa0800000000000000
+      internalID: -6142618575703990947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 965
+        width: 498
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38e53a2dfc54cb70800000000000000
+      internalID: 8918355404505081914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 947
+        width: 498
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c30463752af9d120800000000000000
+      internalID: 2439255711954502593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_62
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1445
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7ad23abceb1060800000000000000
+      internalID: 6925389136473521026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_63
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 984
+        width: 383
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272206cfd5d3fc610800000000000000
+      internalID: 1643599862888931954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_64
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1034
+        width: 388
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b322907035af85760800000000000000
+      internalID: 7446977218364383803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_65
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1516
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef2af1b18818720800000000000000
+      internalID: 2846706089551134345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_66
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1055
+        width: 395
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d79db40af53940800000000000000
+      internalID: 5275397436802062339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_67
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1055
+        width: 373
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e554f191ca69fa10800000000000000
+      internalID: 1943702093797021155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_68
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 1056
+        width: 377
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32986ec1f841efce0800000000000000
+      internalID: -1369634631776302813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_69
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 1056
+        width: 377
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ca105ffaa6affa0800000000000000
+      internalID: -5766179068932150271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_70
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1435
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea5e144d2bc040d0800000000000000
+      internalID: -3440526720034252057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_71
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 323
+        width: 487
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33492f901a4ddc8f0800000000000000
+      internalID: -518524593956023245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_72
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 855
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8131ad1bc8a6b08e0800000000000000
+      internalID: -1726168879654628584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_73
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 380
+        width: 387
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e87ad5a8a05e7660800000000000000
+      internalID: 7385429124201478373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_74
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 430
+        width: 385
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891d2400375d9bfb0800000000000000
+      internalID: -4631436051871510120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_75
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 913
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a939f87dce1eeb330800000000000000
+      internalID: 3728665948854391706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_76
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 467
+        width: 385
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa2c315722ed3ae0800000000000000
+      internalID: -1567848436760564996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_77
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 950
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e29ec8e2916300800000000000000
+      internalID: 243637383450518349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_78
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 436
+        width: 387
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256673a4e17f19680800000000000000
+      internalID: -8749940891537938862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_79
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 923
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39de5b12bd05f7e50800000000000000
+      internalID: 6809250063701110163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_80
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 431
+        width: 377
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcd228c968c690e0800000000000000
+      internalID: -2263401406052246284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_81
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 917
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffa0d10e6b0f1d20800000000000000
+      internalID: 3251330023089549309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_82
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 437
+        width: 377
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641541d2260b478a0800000000000000
+      internalID: -6308223242329632442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_83
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 917
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b910e64f3fe5b20800000000000000
+      internalID: 3125203422584871685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_84
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 431
+        width: 377
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911906ae3ebcec700800000000000000
+      internalID: 562611183218102553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_85
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 917
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e61de2a4a07d4d00800000000000000
+      internalID: 958546148110178020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_86
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 306
+        width: 491
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1441a8fd4d74c510800000000000000
+      internalID: 1568516344069047322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkStarBF_87
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 834
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375f75027116daa0800000000000000
+      internalID: -6136698260829546692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
