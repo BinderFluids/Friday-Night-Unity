@@ -19,7 +19,7 @@ public static class Cache
         loaded = false; 
 
         LoadImages();
-        LoadStages();
+        //LoadStages();
         LoadCharacters();
     }
 
@@ -30,9 +30,9 @@ public static class Cache
         foreach (string doc in Directory.GetFiles(Application.persistentDataPath + "/Images/Characters"))
         {
             //iterate through each xml file in the folder
-            if (doc.Contains(".xml"))
+            if (doc.EndsWith(".xml"))
             {
-                XDocument xDoc = XDocument.Load(doc);
+                XDocument xDoc = XDocument.Load(doc); 
                 IEnumerable<XElement> items = xDoc.Descendants();
                 string imagePath = "";
 
@@ -81,6 +81,8 @@ public static class Cache
     }
     private static CharacterObject LoadCharacterJSON(string jsonFileInfo)
     {
+        Debug.Log(jsonFileInfo);
+        
         CharacterObject newCharacterObject = ScriptableObject.CreateInstance<CharacterObject>();
         CharacterObjectSave save = new CharacterObjectSave();
         JsonUtility.FromJsonOverwrite(jsonFileInfo, save);

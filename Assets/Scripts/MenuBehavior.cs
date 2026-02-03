@@ -22,6 +22,8 @@ public class MenuBehavior : MonoBehaviour
             Directory.CreateDirectory(Application.persistentDataPath + "/Songs/");
         }
 
+        print(Application.persistentDataPath);
+        
         if (!Cache.loaded)
         {
             Cache.LoadAll();
